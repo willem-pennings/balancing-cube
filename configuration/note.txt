@@ -1,0 +1,3 @@
+The ESCON configuration files are identical except that the hall sensor analog output port is swapped for M3.
+This was done because ADC2 cannot be used reliably when WiFi is also active on the ESP32, supposedly.
+A future revision of the motherboard will connect analog out 1 of each motor controller to ADC1 to resolve this.

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cube-batteryboard")(type "KiCad")(uri "${KIPRJMOD}/cube-batteryboard.pretty")(options "")(descr ""))
+)

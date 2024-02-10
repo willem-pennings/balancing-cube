@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.8*%
+%TF.CreationDate,2024-01-29T21:33:25+01:00*%
+%TF.ProjectId,cube-motherboard,63756265-2d6d-46f7-9468-6572626f6172,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.8) date 2024-01-29 21:33:25*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X20000000Y-20000000D02*
+X115000000Y-20000000D01*
+X115000000Y-115000000D01*
+X20000000Y-115000000D01*
+X20000000Y-20000000D01*
+M02*
