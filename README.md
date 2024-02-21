@@ -7,6 +7,8 @@ This repository contains all design, documentation, configuration and other file
 * Circuit boards are designed in [KiCad 7](https://www.kicad.org/download/windows/).
 * Code has been written using [Arduino IDE](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing/).
 * Motor drivers are commissioned and tuned using [Escon Studio](https://www.maxongroup.nl/maxon/view/content/ESCON-Detailsite?isoCode=nl).
+* Motors and motor controllers are available from [Maxon](https://www.maxongroup.com/maxon/view/content/index).
+* Circuit boards and custom mechanical parts can be ordered from [PCBWay](https://www.pcbway.com/rapid-prototyping/), for example.
 
 A YouTube video demonstrating the balancing cube is available [here](https://youtu.be/zGclFqkZBsk).
 
