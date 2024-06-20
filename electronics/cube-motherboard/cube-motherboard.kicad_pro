@@ -412,7 +412,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "cube-motherboard"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
