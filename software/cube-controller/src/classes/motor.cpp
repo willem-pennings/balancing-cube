@@ -6,9 +6,9 @@ Motor::Motor(int pin_enable, int pin_current) : pin_enable(pin_enable), pin_curr
     pinMode(pin_enable, OUTPUT);
 
     // Map pin number to channel (these must be updated if mx_current in pins.h is changed...)
-    if(pin_current == 14) {
+    if(pin_current == 12) {
         channel = 0;
-    } else if(pin_current == 16) {
+    } else if(pin_current == 18) {
         channel = 1;
     } else {
         channel = 2;
