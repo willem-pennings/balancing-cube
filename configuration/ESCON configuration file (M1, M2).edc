@@ -7869,7 +7869,7 @@
 						</dataType>
 						<access>readWrite</access>
 						<defaultValue>25</defaultValue>
-						<actualValue>291</actualValue>
+						<actualValue>40</actualValue>
 					</parameter>
 					<parameter uniqueID="PARAM_CurrentRegulatorIntegralTime" persistent="true" variableName="REG_wTnCurr" callbackName="REG_SetCurrRegTimeConstant">
 						<index>0x4200</index>
@@ -7897,7 +7897,7 @@
 							<label lang="ja">µs</label>
 							<label lang="zh-CN">µs</label>
 						</unit>
-						<actualValue>252</actualValue>
+						<actualValue>200</actualValue>
 					</parameter>
 					<parameter uniqueID="PARAM_CurrentRegulatorFR_Gain" persistent="true" variableName="REG_wKfrCurr" callbackName="REG_SetKfrCurr">
 						<index>0x4200</index>
