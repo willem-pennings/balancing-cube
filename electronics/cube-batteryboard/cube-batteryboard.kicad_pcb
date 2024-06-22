@@ -203,7 +203,7 @@
 
   (footprint "kibuzzard-656351D2" (layer "B.Cu")
     (tstamp 505afe1a-f491-4e0c-b013-74a89374e89f)
-    (at 54.75 32 90)
+    (at 80.25 32 90)
     (descr "Generated with KiBuzzard")
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiKCIsICJDYXBSaWdodENob2ljZSI6ICIpIiwgIkZvbnRDb21ib0JveCI6ICJVYnVudHVNb25vLUIiLCAiSGVpZ2h0Q3RybCI6ICIzIiwgIkxheWVyQ29tYm9Cb3giOiAiRi5TaWxrUyIsICJNdWx0aUxpbmVUZXh0IjogIk9GRiIsICJQYWRkaW5nQm90dG9tQ3RybCI6ICI1IiwgIlBhZGRpbmdMZWZ0Q3RybCI6ICI1IiwgIlBhZGRpbmdSaWdodEN0cmwiOiAiNSIsICJQYWRkaW5nVG9wQ3RybCI6ICI1IiwgIldpZHRoQ3RybCI6ICIifQ==")
     (attr board_only exclude_from_pos_files exclude_from_bom)
@@ -448,7 +448,7 @@
 
   (footprint "kibuzzard-656351E7" (layer "B.Cu")
     (tstamp 57018c46-760c-4313-a581-de6930691519)
-    (at 80.25 32 90)
+    (at 54.75 32 90)
     (descr "Generated with KiBuzzard")
     (tags "kb_params=eyJBbGlnbm1lbnRDaG9pY2UiOiAiQ2VudGVyIiwgIkNhcExlZnRDaG9pY2UiOiAiKCIsICJDYXBSaWdodENob2ljZSI6ICIpIiwgIkZvbnRDb21ib0JveCI6ICJVYnVudHVNb25vLUIiLCAiSGVpZ2h0Q3RybCI6ICIzIiwgIkxheWVyQ29tYm9Cb3giOiAiRi5TaWxrUyIsICJNdWx0aUxpbmVUZXh0IjogIk9OIiwgIlBhZGRpbmdCb3R0b21DdHJsIjogIjUiLCAiUGFkZGluZ0xlZnRDdHJsIjogIjUiLCAiUGFkZGluZ1JpZ2h0Q3RybCI6ICI1IiwgIlBhZGRpbmdUb3BDdHJsIjogIjUiLCAiV2lkdGhDdHJsIjogIiJ9")
     (attr board_only exclude_from_pos_files exclude_from_bom)

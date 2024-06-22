@@ -1,4 +1,4 @@
-22424778786282197
+21675733837653126
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,13 +13,6 @@ audio belton reverb
 0
 7
 7
-Battery
-BatteryClip_Keystone_54_D16-19mm
-Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
-battery clip 18650 18350 17350 CR123A 2/3A
-0
-3
-1
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -78,18 +71,11 @@ Keystone type 107 battery holder
 2
 Battery
 BatteryHolder_Keystone_500
-Keystone #500, 12mm CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710
+Keystone #500, CR1220 battery holder, http://www.keyelco.com/product-pdf.cfm?p=710
 CR1220 battery holder
 0
 2
 2
-Battery
-BatteryHolder_Keystone_590
-AA CR2 A battery holder with leaf spring, Keystone, https://ken.keyeuro.eu/cat/590.pdf
-AA battery holder Keystone
-0
-3
-1
 Battery
 BatteryHolder_Keystone_1042_1x18650
 Battery holder for 18650 cylindrical cells http://www.keyelco.com/product.cfm/product_id/918
@@ -250,13 +236,6 @@ BatteryHolder_MPD_BH-18650-PC2
 18650 Battery Holder
 0
 2
-2
-Battery
-BatteryHolder_Multicomp_BC-2001_1x2032
-CR2032 retainer clip, SMT ( http://www.farnell.com/datasheets/1505853.pdf )
-BC-2001 CR2032 2032 Battery Holder
-0
-3
 2
 Battery
 BatteryHolder_Seiko_MS621F
@@ -545,13 +524,6 @@ Matias ALPS keyswitch ISO enter
 0
 2
 2
-Button_Switch_SMD
-Nidec_Copal_CAS-120A
-Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
-SMD slide switch Nidec CAS 120A 
-0
-3
-3
 Button_Switch_SMD
 Nidec_Copal_SH-7010A
 4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
@@ -1309,13 +1281,6 @@ Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.c
 7
 3
 Button_Switch_SMD
-SW_SPDT_REED_MSDM-DT
-Littlefuse 14.73x2.54mm, 175VDC 5W, SPDT Reed Switch MSDM-DT, https://www.littelfuse.com/~/media/electronics/datasheets/reed_switches/littelfuse_reed_switches_mdsm_dt_datasheet.pdf.pdf
-Littlefuse Reed SPDT Switch
-0
-3
-3
-Button_Switch_SMD
 SW_SPST_B3S-1000
 Surface Mount Tactile Switch for High-Density Packaging
 Tactile Switch
@@ -1436,15 +1401,15 @@ SMD SMT SPST EVQP2
 2
 Button_Switch_SMD
 SW_SPST_EVQP7A
-Light Touch Switch, 2.2 N, https://www3.panasonic.biz/ac/e_download/control/switch/light-touch/catalog/sw_lt_eng_3529s_side.pdf?f_cd=402906
-tactile switch
+Light Touch Switch,https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE20.pdf
+
 0
 4
 2
 Button_Switch_SMD
 SW_SPST_EVQP7C
-Light Touch Switch, 2.2 N, https://www3.panasonic.biz/ac/e_download/control/switch/light-touch/catalog/sw_lt_eng_3529s_side.pdf?f_cd=402906
-tactile switch
+Light Touch Switch
+
 0
 4
 2
@@ -2049,20 +2014,6 @@ SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf
 tact sw push 12mm
 0
 4
-2
-Button_Switch_THT
-SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243
-tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1
-PHAP3362 6mm tact sw THT
-0
-2
-2
-Button_Switch_THT
-SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250
-tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1
-PHAP3362A 6mm tact sw THT
-0
-2
 2
 Button_Switch_THT
 SW_PUSH_6mm
@@ -6440,13 +6391,6 @@ connector JWT A3963 pinhead
 2
 2
 Connector
-Joint-Tech_C5080WR-04P_1x04_P5.08mm_Vertical
-C5080 SERIES 90° Wafer, (https://datasheet.lcsc.com/lcsc/1912261836_HR-Joint-Tech-Elec-C5080WR-04P_C477015.pdf)
-connector side-entry ATA PATA IDE 5.25 inch floppy drive power
-0
-6
-5
-Connector
 NS-Tech_Grove_1x04_P2mm_Vertical
 https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf
 Grove-1x04
@@ -6685,15 +6629,8 @@ jack stereo TRS
 5
 5
 Connector_Audio
-Jack_3.5mm_Lumberg_1503_02_Horizontal
-TRS 3.5mm, horizontal, Surface Mount (SMT), https://downloads.lumberg.com/datenblaetter/en/1503_02.pdf
-TRS audio jack horizontal
-0
-4
-3
-Connector_Audio
 Jack_3.5mm_Lumberg_1503_07_Horizontal
-TRS 3.5mm, horizontal, through-hole, height 5mm, width 6.5mm, https://downloads.lumberg.com/datenblaetter/en/1503_07.pdf
+TRS 3.5mm, horizontal, through-hole, https://downloads.lumberg.com/datenblaetter/en/1503_07.pdf
 TRS audio jack horizontal
 0
 4
@@ -8113,20 +8050,6 @@ barreljack switchcraftconxall dc power
 2
 2
 Connector_BarrelJack
-BarrelJack_Wuerth_694106106102_2.0x5.5mm
-Wuerth Elektronik 694106106102 Barrel Jack, 2.0x5.5mm, https://www.we-online.com/components/products/datasheet/694106106102.pdf
-barrel jack Wuerth Elektronik 694106106102
-0
-4
-3
-Connector_BarrelJack
-BarrelJack_Wuerth_694108106102_2.5x5.5mm
-Wuerth Elektronik 694108106102 Barrel Jack, 2.5x5.5mm, https://www.we-online.com/components/products/datasheet/694106106102.pdf
-barrel jack Wuerth Elektronik 694108106102
-0
-4
-3
-Connector_BarrelJack
 BarrelJack_Wuerth_6941xx301002
 Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf
 connector barrel jack
@@ -8411,7 +8334,7 @@ SMA_Molex_73251-2120_EdgeMount_Horizontal
 Molex SMA RF Connector, Edge Mount, (http://www.molex.com/pdm_docs/sd/732512120_sd.pdf)
 sma edge
 0
-7
+11
 2
 Connector_Coaxial
 SMA_Molex_73251-2200_Horizontal
@@ -8426,13 +8349,6 @@ Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/pri
 SMA Straight Samtec Edge Mount
 0
 5
-2
-Connector_Coaxial
-SMA_Wurth_60312102114405_Vertical
-Würth WR-SMA PCB SMT Jack, Vertical (https://www.we-online.com/components/products/datasheet/60312102114405.pdf)
-Coaxial Connector 50 ohms Female
-0
-3
 2
 Connector_Coaxial
 SMA_Wurth_60312002114503_Vertical
@@ -19028,7 +18944,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-0212_2x01_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-0212 (compatible alternatives: 43045-0213, 43045-0224), 1 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 2
 2
@@ -19070,7 +18986,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-0412_2x02_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-0412 (compatible alternatives: 43045-0413, 43045-0424), 2 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 4
 4
@@ -19112,7 +19028,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-0612_2x03_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-0612 (compatible alternatives: 43045-0613, 43045-0624), 3 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 6
 6
@@ -19154,7 +19070,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-0812_2x04_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-0812 (compatible alternatives: 43045-0813, 43045-0824), 4 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 8
 8
@@ -19196,7 +19112,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-1012_2x05_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-1012 (compatible alternatives: 43045-1013, 43045-1024), 5 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 10
 10
@@ -19238,7 +19154,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-1212_2x06_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-1212 (compatible alternatives: 43045-1213, 43045-1224), 6 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 12
 12
@@ -19280,7 +19196,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-1412_2x07_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-1412 (compatible alternatives: 43045-1413, 43045-1424), 7 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 14
 14
@@ -19322,7 +19238,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-1612_2x08_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-1612 (compatible alternatives: 43045-1613, 43045-1624), 8 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 16
 16
@@ -19364,7 +19280,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-1812_2x09_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-1812 (compatible alternatives: 43045-1813, 43045-1824), 9 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 18
 18
@@ -19406,7 +19322,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-2012_2x10_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-2012 (compatible alternatives: 43045-2013, 43045-2024), 10 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 20
 20
@@ -19448,7 +19364,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-2212_2x11_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-2212 (compatible alternatives: 43045-2213, 43045-2224), 11 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 22
 22
@@ -19490,7 +19406,7 @@ connector Molex Micro-Fit_3.0 top entry
 Connector_Molex
 Molex_Micro-Fit_3.0_43045-2412_2x12_P3.00mm_Vertical
 Molex Micro-Fit 3.0 Connector System, 43045-2412 (compatible alternatives: 43045-2413, 43045-2424), 12 Pins per row (http://www.molex.com/pdm_docs/sd/430450212_sd.pdf), generated with kicad-footprint-generator
-connector Molex Micro-Fit_3.0 vertical
+connector Molex Micro-Fit_3.0 side entry
 0
 24
 24
@@ -23442,20 +23358,6 @@ PCIe
 0
 164
 164
-Connector_PCBEdge
-JAE_MM60-EZH039-Bx_BUS_PCI_Express_Holder
-PCI Express mini card latch for 3.9mm connector height, https://www.jae.com/direct/topics/topics_file_download/?topics_id=68909&ext_no=06&index=0&_lang=en&v=2022071912512930114109
-MiniPCI
-0
-6
-1
-Connector_PCBEdge
-JAE_MM60-EZH059-Bx_BUS_PCI_Express_Holder
-PCI Express mini card latch for 5.9mm connector height, https://www.jae.com/direct/topics/topics_file_download/topics_id=68910&ext_no=06&index=0&_lang=en&v=
-MiniPCI
-0
-6
-1
 Connector_PCBEdge
 Samtec_MECF-05-0_-L-DV_2x05_P1.27mm_Polarized_Edge
 Highspeed card edge connector for PCB's with 05 contacts (polarized)
@@ -42707,13 +42609,6 @@ Surface mounted socket strip SMD 2x40 2.54mm double row
 80
 80
 Connector_RJ
-RJ9_Evercom_5301-440xxx_Horizontal
-Evercom 5301-4P4C RJ9 receptacle, unshielded, https://datasheet.lcsc.com/lcsc/2207051802_EVERCOM-5301-4P4C_C3097715.pdf
-RJ9 Connector tab down
-0
-4
-4
-Connector_RJ
 RJ12_Amphenol_54601
 RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf
 RJ12 connector
@@ -42736,7 +42631,7 @@ RJ12 RJ18 RJ25 jack connector 6P6C
 6
 Connector_RJ
 RJ45_Abracon_ARJP11A-MA_Horizontal
-Shielded RJ45 ethernet connector with transformer and POE, https://abracon.com/Magnetics/lan/ARJP11A.PDF
+Shielded RJ45 ethernet connector with transformer and POE (https://abracon.com/Magnetics/lan/ARJP11A.PDF)
 ethernet 8p8c transformer poe rj45
 0
 15
@@ -42763,13 +42658,6 @@ RJ45 8p8c dual ethernet cat5
 26
 25
 Connector_RJ
-RJ45_Amphenol_RJHSE538X-04
-Shielded, LEDs, 4 Ports, https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/rjhse538x04.pdf
-RJ45 8p8c quad ethernet cat5
-0
-52
-49
-Connector_RJ
 RJ45_Amphenol_RJHSE5380
 Shielded, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
 RJ45 8p8c ethernet cat5
@@ -42785,7 +42673,7 @@ RJ45 8p8c ethernet cat5
 65
 Connector_RJ
 RJ45_Amphenol_RJMG1BD3B8K1ANR
-1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenol-cs.com/media/wysiwyg/files/drawing/rjmg1bd3b8k1anr.pdf
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
 RJ45 Magjack
 0
 14
@@ -42812,30 +42700,9 @@ RJ45 Magjack
 14
 13
 Connector_RJ
-RJ45_HALO_HFJ11-x2450E-LxxRL_Horizontal
-Halo FastJack, Shielded, 2 LEDs, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf
-10/100 Ethernet RJ45 Tab-Down
-0
-14
-13
-Connector_RJ
-RJ45_HALO_HFJ11-x2450ERL_Horizontal
-Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf
-10/100 Ethernet RJ45 Tab-Down
-0
-9
-8
-Connector_RJ
-RJ45_HALO_HFJ11-x2450HRL_Horizontal
-Halo FastJack, Shielded, https://www.haloelectronics.com/pdf/fastjack-100baset.pdf
-10/100 Ethernet RJ45 Tab-Down
-0
-10
-9
-Connector_RJ
-RJ45_Hanrun_HR911105A_Horizontal
-1 Port RJ45 8P8C receptacle, shielded, with magnetics, through hole, 2 LEDs, tab down, http://www.hanrun.com/public/upload/down/2020/09-11/cc11be56d66bb63d5f1eeb85492439c0.pdf
-RJ45 Magjack ethernet
+RJ45_Hanrun_HR911105A
+http://www.kosmodrom.com.ua/pdf/HR911105A.pdf
+RJ45 Magjack
 0
 14
 13
@@ -46339,1168 +46206,6 @@ Through hole Samtec HPM power header series 3.81mm post length THT 1x19 5.08mm s
 0
 19
 19
-Connector_Samtec_HSEC8
-Samtec_HSEC8-109-01-X-DV-A-BL_2x09_P0.8mm_Pol04_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-20
-18
-Connector_Samtec_HSEC8
-Samtec_HSEC8-109-01-X-DV-A-WT_2x09_P0.8mm_Pol04_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-20
-18
-Connector_Samtec_HSEC8
-Samtec_HSEC8-109-01-X-DV-A_2x09_P0.8mm_Pol04_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-18
-18
-Connector_Samtec_HSEC8
-Samtec_HSEC8-109-01-X-DV_2x09_P0.8mm_Pol04_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-18
-18
-Connector_Samtec_HSEC8
-Samtec_HSEC8-110-01-X-DV-A-BL_2x10_P0.8mm_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-22
-20
-Connector_Samtec_HSEC8
-Samtec_HSEC8-110-01-X-DV-A-WT_2x10_P0.8mm_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-22
-20
-Connector_Samtec_HSEC8
-Samtec_HSEC8-110-01-X-DV-A_2x10_P0.8mm_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-20
-20
-Connector_Samtec_HSEC8
-Samtec_HSEC8-110-01-X-DV_2x10_P0.8mm_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-20
-20
-Connector_Samtec_HSEC8
-Samtec_HSEC8-110-03-X-DV-A-WT_2x10_P0.8mm_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-22
-20
-Connector_Samtec_HSEC8
-Samtec_HSEC8-110-03-X-DV-A_2x10_P0.8mm_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-20
-20
-Connector_Samtec_HSEC8
-Samtec_HSEC8-110-03-X-DV_2x10_P0.8mm_Socket
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-20
-20
-Connector_Samtec_HSEC8
-Samtec_HSEC8-113-01-X-DV-A-BL_2x13_P0.8mm_Pol06_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-28
-26
-Connector_Samtec_HSEC8
-Samtec_HSEC8-113-01-X-DV-A-WT_2x13_P0.8mm_Pol06_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-28
-26
-Connector_Samtec_HSEC8
-Samtec_HSEC8-113-01-X-DV-A_2x13_P0.8mm_Pol06_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-26
-26
-Connector_Samtec_HSEC8
-Samtec_HSEC8-113-01-X-DV_2x13_P0.8mm_Pol06_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-26
-26
-Connector_Samtec_HSEC8
-Samtec_HSEC8-120-01-X-DV-A-BL_2x20_P0.8mm_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-42
-40
-Connector_Samtec_HSEC8
-Samtec_HSEC8-120-01-X-DV-A-WT_2x20_P0.8mm_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-42
-40
-Connector_Samtec_HSEC8
-Samtec_HSEC8-120-01-X-DV-A_2x20_P0.8mm_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-40
-40
-Connector_Samtec_HSEC8
-Samtec_HSEC8-120-01-X-DV_2x20_P0.8mm_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-40
-40
-Connector_Samtec_HSEC8
-Samtec_HSEC8-120-03-X-DV-A-WT_2x20_P0.8mm_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-42
-40
-Connector_Samtec_HSEC8
-Samtec_HSEC8-120-03-X-DV-A_2x20_P0.8mm_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-40
-40
-Connector_Samtec_HSEC8
-Samtec_HSEC8-120-03-X-DV_2x20_P0.8mm_Socket
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-40
-40
-Connector_Samtec_HSEC8
-Samtec_HSEC8-125-01-X-DV-A-BL_2x25_P0.8mm_Pol06_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-52
-50
-Connector_Samtec_HSEC8
-Samtec_HSEC8-125-01-X-DV-A-WT_2x25_P0.8mm_Pol06_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-52
-50
-Connector_Samtec_HSEC8
-Samtec_HSEC8-125-01-X-DV-A_2x25_P0.8mm_Pol06_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-50
-50
-Connector_Samtec_HSEC8
-Samtec_HSEC8-125-01-X-DV_2x25_P0.8mm_Pol06_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-50
-50
-Connector_Samtec_HSEC8
-Samtec_HSEC8-130-01-X-DV-A-BL_2x30_P0.8mm_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-62
-60
-Connector_Samtec_HSEC8
-Samtec_HSEC8-130-01-X-DV-A-WT_2x30_P0.8mm_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-62
-60
-Connector_Samtec_HSEC8
-Samtec_HSEC8-130-01-X-DV-A_2x30_P0.8mm_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-60
-60
-Connector_Samtec_HSEC8
-Samtec_HSEC8-130-01-X-DV_2x30_P0.8mm_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-60
-60
-Connector_Samtec_HSEC8
-Samtec_HSEC8-130-03-X-DV-A-WT_2x30_P0.8mm_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-62
-60
-Connector_Samtec_HSEC8
-Samtec_HSEC8-130-03-X-DV-A_2x30_P0.8mm_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-60
-60
-Connector_Samtec_HSEC8
-Samtec_HSEC8-130-03-X-DV_2x30_P0.8mm_Socket
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-60
-60
-Connector_Samtec_HSEC8
-Samtec_HSEC8-137-01-X-DV-A-BL_2x37_P0.8mm_Pol21_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-76
-74
-Connector_Samtec_HSEC8
-Samtec_HSEC8-137-01-X-DV-A-WT_2x37_P0.8mm_Pol21_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-76
-74
-Connector_Samtec_HSEC8
-Samtec_HSEC8-137-01-X-DV-A_2x37_P0.8mm_Pol21_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-74
-74
-Connector_Samtec_HSEC8
-Samtec_HSEC8-137-01-X-DV_2x37_P0.8mm_Pol21_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-74
-74
-Connector_Samtec_HSEC8
-Samtec_HSEC8-140-01-X-DV-A-BL_2x40_P0.8mm_Pol22_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-82
-80
-Connector_Samtec_HSEC8
-Samtec_HSEC8-140-01-X-DV-A-WT_2x40_P0.8mm_Pol22_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-82
-80
-Connector_Samtec_HSEC8
-Samtec_HSEC8-140-01-X-DV-A_2x40_P0.8mm_Pol22_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-80
-80
-Connector_Samtec_HSEC8
-Samtec_HSEC8-140-01-X-DV_2x40_P0.8mm_Pol22_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-80
-80
-Connector_Samtec_HSEC8
-Samtec_HSEC8-140-03-X-DV-A-WT_2x40_P0.8mm_Pol22_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-82
-80
-Connector_Samtec_HSEC8
-Samtec_HSEC8-140-03-X-DV-A_2x40_P0.8mm_Pol22_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-80
-80
-Connector_Samtec_HSEC8
-Samtec_HSEC8-140-03-X-DV_2x40_P0.8mm_Pol22_Socket
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-80
-80
-Connector_Samtec_HSEC8
-Samtec_HSEC8-149-01-X-DV-A-BL_2x49_P0.8mm_Pol27_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-100
-98
-Connector_Samtec_HSEC8
-Samtec_HSEC8-149-01-X-DV-A-WT_2x49_P0.8mm_Pol27_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-100
-98
-Connector_Samtec_HSEC8
-Samtec_HSEC8-149-01-X-DV-A_2x49_P0.8mm_Pol27_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-98
-98
-Connector_Samtec_HSEC8
-Samtec_HSEC8-149-01-X-DV_2x49_P0.8mm_Pol27_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-98
-98
-Connector_Samtec_HSEC8
-Samtec_HSEC8-150-01-X-DV-A-BL_2x50_P0.8mm_Pol27_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-102
-100
-Connector_Samtec_HSEC8
-Samtec_HSEC8-150-01-X-DV-A-WT_2x50_P0.8mm_Pol27_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-102
-100
-Connector_Samtec_HSEC8
-Samtec_HSEC8-150-01-X-DV-A_2x50_P0.8mm_Pol27_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-100
-100
-Connector_Samtec_HSEC8
-Samtec_HSEC8-150-01-X-DV_2x50_P0.8mm_Pol27_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-100
-100
-Connector_Samtec_HSEC8
-Samtec_HSEC8-150-03-X-DV-A-WT_2x50_P0.8mm_Pol27_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-102
-100
-Connector_Samtec_HSEC8
-Samtec_HSEC8-150-03-X-DV-A_2x50_P0.8mm_Pol27_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-100
-100
-Connector_Samtec_HSEC8
-Samtec_HSEC8-150-03-X-DV_2x50_P0.8mm_Pol27_Socket
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-100
-100
-Connector_Samtec_HSEC8
-Samtec_HSEC8-160-01-X-DV-A-BL_2x60_P0.8mm_Pol32_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-122
-120
-Connector_Samtec_HSEC8
-Samtec_HSEC8-160-01-X-DV-A-WT_2x60_P0.8mm_Pol32_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-122
-120
-Connector_Samtec_HSEC8
-Samtec_HSEC8-160-01-X-DV-A_2x60_P0.8mm_Pol32_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-120
-120
-Connector_Samtec_HSEC8
-Samtec_HSEC8-160-01-X-DV_2x60_P0.8mm_Pol32_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-120
-120
-Connector_Samtec_HSEC8
-Samtec_HSEC8-160-03-X-DV-A-WT_2x60_P0.8mm_Pol32_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-122
-120
-Connector_Samtec_HSEC8
-Samtec_HSEC8-160-03-X-DV-A_2x60_P0.8mm_Pol32_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-120
-120
-Connector_Samtec_HSEC8
-Samtec_HSEC8-160-03-X-DV_2x60_P0.8mm_Pol32_Socket
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-120
-120
-Connector_Samtec_HSEC8
-Samtec_HSEC8-170-01-X-DV-A-BL_2x70_P0.8mm_Pol32_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-142
-140
-Connector_Samtec_HSEC8
-Samtec_HSEC8-170-01-X-DV-A-WT_2x70_P0.8mm_Pol32_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-142
-140
-Connector_Samtec_HSEC8
-Samtec_HSEC8-170-01-X-DV-A_2x70_P0.8mm_Pol32_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-140
-140
-Connector_Samtec_HSEC8
-Samtec_HSEC8-170-01-X-DV_2x70_P0.8mm_Pol32_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-140
-140
-Connector_Samtec_HSEC8
-Samtec_HSEC8-170-03-X-DV-A-WT_2x70_P0.8mm_Pol32_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-142
-140
-Connector_Samtec_HSEC8
-Samtec_HSEC8-170-03-X-DV-A_2x70_P0.8mm_Pol32_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-140
-140
-Connector_Samtec_HSEC8
-Samtec_HSEC8-170-03-X-DV_2x70_P0.8mm_Pol32_Socket
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-140
-140
-Connector_Samtec_HSEC8
-Samtec_HSEC8-180-01-X-DV-A-BL_2x80_P0.8mm_Pol32_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-162
-160
-Connector_Samtec_HSEC8
-Samtec_HSEC8-180-01-X-DV-A-WT_2x80_P0.8mm_Pol32_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-162
-160
-Connector_Samtec_HSEC8
-Samtec_HSEC8-180-01-X-DV-A_2x80_P0.8mm_Pol32_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-160
-160
-Connector_Samtec_HSEC8
-Samtec_HSEC8-180-01-X-DV_2x80_P0.8mm_Pol32_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-160
-160
-Connector_Samtec_HSEC8
-Samtec_HSEC8-180-03-X-DV-A-WT_2x80_P0.8mm_Pol32_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-162
-160
-Connector_Samtec_HSEC8
-Samtec_HSEC8-180-03-X-DV-A_2x80_P0.8mm_Pol32_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-160
-160
-Connector_Samtec_HSEC8
-Samtec_HSEC8-180-03-X-DV_2x80_P0.8mm_Pol32_Socket
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-160
-160
-Connector_Samtec_HSEC8
-Samtec_HSEC8-190-01-X-DV-A-BL_2x90_P0.8mm_Pol32_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-182
-180
-Connector_Samtec_HSEC8
-Samtec_HSEC8-190-01-X-DV-A-WT_2x90_P0.8mm_Pol32_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-182
-180
-Connector_Samtec_HSEC8
-Samtec_HSEC8-190-01-X-DV-A_2x90_P0.8mm_Pol32_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-180
-180
-Connector_Samtec_HSEC8
-Samtec_HSEC8-190-01-X-DV_2x90_P0.8mm_Pol32_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-180
-180
-Connector_Samtec_HSEC8
-Samtec_HSEC8-190-03-X-DV-A-WT_2x90_P0.8mm_Pol32_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-182
-180
-Connector_Samtec_HSEC8
-Samtec_HSEC8-190-03-X-DV-A_2x90_P0.8mm_Pol32_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-180
-180
-Connector_Samtec_HSEC8
-Samtec_HSEC8-190-03-X-DV_2x90_P0.8mm_Pol32_Socket
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-180
-180
-Connector_Samtec_HSEC8
-Samtec_HSEC8-1100-01-X-DV-A-BL_2x100_P0.8mm_Pol32_Socket_WeldTabs_BoardLocks
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs, board locks (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-202
-200
-Connector_Samtec_HSEC8
-Samtec_HSEC8-1100-01-X-DV-A-WT_2x100_P0.8mm_Pol32_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-202
-200
-Connector_Samtec_HSEC8
-Samtec_HSEC8-1100-01-X-DV-A_2x100_P0.8mm_Pol32_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-200
-200
-Connector_Samtec_HSEC8
-Samtec_HSEC8-1100-01-X-DV_2x100_P0.8mm_Pol32_Socket
-0.8 mm Highspeed card edge card connector socket for 1.57mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-200
-200
-Connector_Samtec_HSEC8
-Samtec_HSEC8-1100-03-X-DV-A-WT_2x100_P0.8mm_Pol32_Socket_WeldTabs
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins, weld tabs (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-202
-200
-Connector_Samtec_HSEC8
-Samtec_HSEC8-1100-03-X-DV-A_2x100_P0.8mm_Pol32_Socket_AlignmentPins
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical, alignment pins (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-200
-200
-Connector_Samtec_HSEC8
-Samtec_HSEC8-1100-03-X-DV_2x100_P0.8mm_Pol32_Socket
-0.8 mm Highspeed card edge card connector socket for 2.36mm PCBs, vertical (source: https://suddendocs.samtec.com/prints/hsec8-1xxx-xx-xx-dv-x-xx-footprint.pdf)
-conn samtec card-edge socket high-speed
-0
-200
-200
-Connector_Samtec_MicroMate
-Samtec_T1M-02-X-S-RA_1x02-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-4
-3
-Connector_Samtec_MicroMate
-Samtec_T1M-02-X-S-V_1x02-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-4
-3
-Connector_Samtec_MicroMate
-Samtec_T1M-02-X-SH-L_1x02-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-4
-3
-Connector_Samtec_MicroMate
-Samtec_T1M-02-X-SV-L_1x02-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-4
-3
-Connector_Samtec_MicroMate
-Samtec_T1M-03-X-S-RA_1x03-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-5
-4
-Connector_Samtec_MicroMate
-Samtec_T1M-03-X-S-V_1x03-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-5
-4
-Connector_Samtec_MicroMate
-Samtec_T1M-03-X-SH-L_1x03-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-5
-4
-Connector_Samtec_MicroMate
-Samtec_T1M-03-X-SV-L_1x03-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-5
-4
-Connector_Samtec_MicroMate
-Samtec_T1M-04-X-S-RA_1x04-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-6
-5
-Connector_Samtec_MicroMate
-Samtec_T1M-04-X-S-V_1x04-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-6
-5
-Connector_Samtec_MicroMate
-Samtec_T1M-04-X-SH-L_1x04-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-6
-5
-Connector_Samtec_MicroMate
-Samtec_T1M-04-X-SV-L_1x04-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-6
-5
-Connector_Samtec_MicroMate
-Samtec_T1M-05-X-S-RA_1x05-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-7
-6
-Connector_Samtec_MicroMate
-Samtec_T1M-05-X-S-V_1x05-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-7
-6
-Connector_Samtec_MicroMate
-Samtec_T1M-05-X-SH-L_1x05-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-7
-6
-Connector_Samtec_MicroMate
-Samtec_T1M-05-X-SV-L_1x05-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-7
-6
-Connector_Samtec_MicroMate
-Samtec_T1M-06-X-S-RA_1x06-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-8
-7
-Connector_Samtec_MicroMate
-Samtec_T1M-06-X-S-V_1x06-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-8
-7
-Connector_Samtec_MicroMate
-Samtec_T1M-06-X-SH-L_1x06-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-8
-7
-Connector_Samtec_MicroMate
-Samtec_T1M-06-X-SV-L_1x06-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-8
-7
-Connector_Samtec_MicroMate
-Samtec_T1M-07-X-S-RA_1x07-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-9
-8
-Connector_Samtec_MicroMate
-Samtec_T1M-07-X-S-V_1x07-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-9
-8
-Connector_Samtec_MicroMate
-Samtec_T1M-07-X-SH-L_1x07-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-9
-8
-Connector_Samtec_MicroMate
-Samtec_T1M-07-X-SV-L_1x07-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-9
-8
-Connector_Samtec_MicroMate
-Samtec_T1M-08-X-S-RA_1x08-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-10
-9
-Connector_Samtec_MicroMate
-Samtec_T1M-08-X-S-V_1x08-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-10
-9
-Connector_Samtec_MicroMate
-Samtec_T1M-08-X-SH-L_1x08-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-10
-9
-Connector_Samtec_MicroMate
-Samtec_T1M-08-X-SV-L_1x08-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-10
-9
-Connector_Samtec_MicroMate
-Samtec_T1M-09-X-S-RA_1x09-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-11
-10
-Connector_Samtec_MicroMate
-Samtec_T1M-09-X-S-V_1x09-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-11
-10
-Connector_Samtec_MicroMate
-Samtec_T1M-09-X-SH-L_1x09-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-11
-10
-Connector_Samtec_MicroMate
-Samtec_T1M-09-X-SV-L_1x09-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-11
-10
-Connector_Samtec_MicroMate
-Samtec_T1M-10-X-S-RA_1x10-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-12
-11
-Connector_Samtec_MicroMate
-Samtec_T1M-10-X-S-V_1x10-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-12
-11
-Connector_Samtec_MicroMate
-Samtec_T1M-10-X-SH-L_1x10-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-12
-11
-Connector_Samtec_MicroMate
-Samtec_T1M-10-X-SV-L_1x10-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-12
-11
-Connector_Samtec_MicroMate
-Samtec_T1M-11-X-S-RA_1x11-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-13
-12
-Connector_Samtec_MicroMate
-Samtec_T1M-11-X-S-V_1x11-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-13
-12
-Connector_Samtec_MicroMate
-Samtec_T1M-11-X-SH-L_1x11-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-13
-12
-Connector_Samtec_MicroMate
-Samtec_T1M-11-X-SV-L_1x11-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-13
-12
-Connector_Samtec_MicroMate
-Samtec_T1M-12-X-S-RA_1x12-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-14
-13
-Connector_Samtec_MicroMate
-Samtec_T1M-12-X-S-V_1x12-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-14
-13
-Connector_Samtec_MicroMate
-Samtec_T1M-12-X-SH-L_1x12-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-14
-13
-Connector_Samtec_MicroMate
-Samtec_T1M-12-X-SV-L_1x12-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-14
-13
-Connector_Samtec_MicroMate
-Samtec_T1M-13-X-S-RA_1x13-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-15
-14
-Connector_Samtec_MicroMate
-Samtec_T1M-13-X-S-V_1x13-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-15
-14
-Connector_Samtec_MicroMate
-Samtec_T1M-13-X-SH-L_1x13-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-15
-14
-Connector_Samtec_MicroMate
-Samtec_T1M-13-X-SV-L_1x13-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-15
-14
-Connector_Samtec_MicroMate
-Samtec_T1M-14-X-S-RA_1x14-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-16
-15
-Connector_Samtec_MicroMate
-Samtec_T1M-14-X-S-V_1x14-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-16
-15
-Connector_Samtec_MicroMate
-Samtec_T1M-14-X-SH-L_1x14-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-16
-15
-Connector_Samtec_MicroMate
-Samtec_T1M-14-X-SV-L_1x14-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-16
-15
-Connector_Samtec_MicroMate
-Samtec_T1M-15-X-S-RA_1x15-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-17
-16
-Connector_Samtec_MicroMate
-Samtec_T1M-15-X-S-V_1x15-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-17
-16
-Connector_Samtec_MicroMate
-Samtec_T1M-15-X-SH-L_1x15-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-17
-16
-Connector_Samtec_MicroMate
-Samtec_T1M-15-X-SV-L_1x15-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-17
-16
-Connector_Samtec_MicroMate
-Samtec_T1M-16-X-S-RA_1x16-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-18
-17
-Connector_Samtec_MicroMate
-Samtec_T1M-16-X-S-V_1x16-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-18
-17
-Connector_Samtec_MicroMate
-Samtec_T1M-16-X-SH-L_1x16-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-18
-17
-Connector_Samtec_MicroMate
-Samtec_T1M-16-X-SV-L_1x16-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-18
-17
-Connector_Samtec_MicroMate
-Samtec_T1M-17-X-S-RA_1x17-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-19
-18
-Connector_Samtec_MicroMate
-Samtec_T1M-17-X-S-V_1x17-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-19
-18
-Connector_Samtec_MicroMate
-Samtec_T1M-17-X-SH-L_1x17-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-19
-18
-Connector_Samtec_MicroMate
-Samtec_T1M-17-X-SV-L_1x17-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-19
-18
-Connector_Samtec_MicroMate
-Samtec_T1M-18-X-S-RA_1x18-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-20
-19
-Connector_Samtec_MicroMate
-Samtec_T1M-18-X-S-V_1x18-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-20
-19
-Connector_Samtec_MicroMate
-Samtec_T1M-18-X-SH-L_1x18-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-20
-19
-Connector_Samtec_MicroMate
-Samtec_T1M-18-X-SV-L_1x18-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-20
-19
-Connector_Samtec_MicroMate
-Samtec_T1M-19-X-S-RA_1x19-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-21
-20
-Connector_Samtec_MicroMate
-Samtec_T1M-19-X-S-V_1x19-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-21
-20
-Connector_Samtec_MicroMate
-Samtec_T1M-19-X-SH-L_1x19-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-21
-20
-Connector_Samtec_MicroMate
-Samtec_T1M-19-X-SV-L_1x19-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-21
-20
-Connector_Samtec_MicroMate
-Samtec_T1M-20-X-S-RA_1x20-1MP_P1.0mm_Terminal_Horizontal
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal (Right Angle) (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-22
-21
-Connector_Samtec_MicroMate
-Samtec_T1M-20-X-S-V_1x20-1MP_P1.0mm_Terminal_Vertical
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-22
-21
-Connector_Samtec_MicroMate
-Samtec_T1M-20-X-SH-L_1x20-1MP_P1.0mm_Terminal_Horizontal_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Horizontal, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-22
-21
-Connector_Samtec_MicroMate
-Samtec_T1M-20-X-SV-L_1x20-1MP_P1.0mm_Terminal_Vertical_Latch
-Samtec Micro Mate Discrete Wire Terminal Strip, 1.00 mm Pitch, Single Row, Vertical, Latch (source: https://suddendocs.samtec.com/prints/t1m-single-row-footprint.pdf)
-conn samtec discrete wire terminal
-0
-22
-21
 Connector_Stocko
 Stocko_MKS_1651-6-0-202_1x2_P2.50mm_Vertical
 Stocko MKS 16xx series connector, (https://www.stocko-contact.com/downloads/steckverbindersystem-raster-2,5-mm.pdf#page=15), generated with kicad-footprint-generator
@@ -48090,13 +46795,6 @@ USB 3.0 type A right angle
 13
 10
 Connector_USB
-USB3_A_Molex_48406-0001_Horizontal_Stacked
-USB 3.0, type A, right angle, stacked (https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/484/48406/484060001_sd.pdf)
-USB 3.0 type A right angle stacked dual
-0
-22
-19
-Connector_USB
 USB3_A_Plug_Wuerth_692112030100_Horizontal
 USB3 type A Plug, Horizontal, http://katalog.we-online.de/em/datasheet/692112030100.pdf
 usb A plug horizontal
@@ -48139,13 +46837,6 @@ USB-A CUI stacked horizontal through-hole
 12
 9
 Connector_USB
-USB_A_Molex_48037-2200_Horizontal
-USB type A Plug, Horizontal, https://www.molex.com/pdm_docs/sd/480372200_sd.pdf
-USB-A
-0
-6
-5
-Connector_USB
 USB_A_Molex_67643_Horizontal
 USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf
 USB_A Female Connector receptacle
@@ -48158,13 +46849,6 @@ https://www.molex.com/pdm_docs/sd/1050570001_sd.pdf
 USB A Vertical
 0
 7
-5
-Connector_USB
-USB_A_Receptacle_GCT_USB1046
-GCT USB1046, USB Type A, https://gct.co/files/drawings/usb1046.pdf
-USB SMD Type-A Receptacle Right Angle
-0
-8
 5
 Connector_USB
 USB_A_Stewart_SS-52100-001_Horizontal
@@ -48237,13 +46921,6 @@ USB Type-C Plug Edge Mount
 24
 23
 Connector_USB
-USB_C_Plug_ShenzhenJingTuoJin_918-118A2021Y40002_Vertical
-Low-profile vertical USB 2.0 Type C Plug Shenzhen Jing Tuo Jin Electronics Co 918-118A2021Y40002 ( https://datasheet.lcsc.com/lcsc/1912111437_Jing-Extension-of-the-Electronic-Co--918-118A2021Y40002_C399939.pdf ) also compatible with Korean HRO Parts Elec TYPE-C-31-G-06
-type-c usb2
-0
-18
-17
-Connector_USB
 USB_C_Receptacle_Amphenol_12401548E4-2A
 USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
 USB C Type-C Receptacle Hybrid
@@ -48286,13 +46963,6 @@ USB C Type-C Receptacle SMD
 20
 17
 Connector_USB
-USB_C_Receptacle_G-Switch_GT-USB-7051x
-USB Type C, vertical, SMT, https://datasheet.lcsc.com/lcsc/2108072030_G-Switch-GT-USB-7051A_C2843970.pdf
-USB C Type-C Receptacle SMD GT-USB-7051A GT-USB-7051B
-0
-20
-17
-Connector_USB
 USB_C_Receptacle_GCT_USB4085
 USB 2.0 Type C Receptacle, https://gct.co/Files/Drawings/USB4085.pdf
 USB Type-C Receptacle Through-hole Right angle
@@ -48307,13 +46977,6 @@ USB C Type-C Receptacle SMD USB 2.0 16P 16C USB4105-15-A USB4105-15-A-060 USB410
 20
 17
 Connector_USB
-USB_C_Receptacle_GCT_USB4110
-USB 2.0 Type C Receptacle, GCT, 16P, top mounted, horizontal, 5A, https://gct.co/files/drawings/usb4110.pdf
-USB 2.0 C Type-C Receptacle SMD 16P 16C USB4110-GF-A
-0
-20
-17
-Connector_USB
 USB_C_Receptacle_GCT_USB4115-03-C
 USB TYPE C, VERT RCPT PCB, SMT, https://gct.co/files/drawings/usb4115.pdf
 USB C Type-C Receptacle SMD
@@ -48321,33 +46984,12 @@ USB C Type-C Receptacle SMD
 28
 25
 Connector_USB
-USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal
-USB Type C Receptacle, GCT, power-only, 6P, top mounted, horizontal, 3A, 1.9mm stake: https://gct.co/files/drawings/usb4125.pdf
-USB C Type-C receptacle power-only charging-only 6P 6C right angled
-0
-10
-7
-Connector_USB
-USB_C_Receptacle_GCT_USB4125-xx-x_6P_TopMnt_Horizontal
-USB Type C Receptacle, GCT, power-only, 6P, top mounted, horizontal, 3A, 1mm stake: https://gct.co/files/drawings/usb4125.pdf
-USB C Type-C receptacle power-only charging-only 6P 6C right angled
-0
-10
-7
-Connector_USB
 USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal
 USB Type C Receptacle, GCT, power-only, 6P, top mounted, horizontal, 3A: https://gct.co/files/drawings/usb4135.pdf
 USB C Type-C Receptacle SMD USB Power-only Charging-only 6P 6C USB4135-GF-A
 0
 10
 7
-Connector_USB
-USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A
-16-pin USB-C receptacle, USB2.0 and PD, 5A VBUS rating, https://datasheet.lcsc.com/lcsc/2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf
-usb usb-c 2.0 pd
-0
-20
-17
 Connector_USB
 USB_C_Receptacle_HRO_TYPE-C-31-M-12
 USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
@@ -48417,20 +47059,6 @@ USB Micro-B, horizontal, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawin
 USB Micro B horizontal
 0
 9
-6
-Connector_USB
-USB_Micro-B_Amphenol_10118193-0001LF_Horizontal
-USB Micro-B receptacle, horizontal, SMD, 10118193, with flange, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118193.pdf
-USB Micro-B horizontal SMD
-0
-11
-6
-Connector_USB
-USB_Micro-B_Amphenol_10118193-0002LF_Horizontal
-USB Micro-B receptacle, horizontal, SMD, 10118193, without flange, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118193.pdf
-USB Micro-B horizontal SMD
-0
-11
 6
 Connector_USB
 USB_Micro-B_Amphenol_10118194_Horizontal
@@ -51044,13 +49672,6 @@ ACDC-Converter TRACO TMLM 10 and TMLM 20
 4
 4
 Converter_ACDC
-Converter_ACDC_TRACO_TPP-15-1xx-D_THT
-ACDC-Converter, 15W, TRACO TPP 15-D, 42 x 28.9 x 21.5mm, https://www.tracopower.com/sites/default/files/products/datasheets/tpp15_d_datasheet.pdf
-ACDC-Converter TRACO TPP
-0
-5
-5
-Converter_ACDC
 Converter_ACDC_Vigortronix_VTX-214-010-xxx_THT
 Vigortronix VTX-214-010-xxx serie of ACDC converter, http://www.vigortronix.com/10WattACDCPCBPowerModule.aspx
 Vigortronix VTX-214-010-xxx serie of ACDC converter
@@ -51317,13 +49938,6 @@ DCDC-Converter Silvertel Ag5405 Ag5412 Ag5424 single output POE
 10
 10
 Converter_DCDC
-Converter_DCDC_Silvertel_Ag99xxLP_THT
-Converter, DCDC, Silvertel Ag9900 PoE, 1500VDC isolation, Vin 36V - 75V, 4.9W - 10W output, https://silvertel.com/images/datasheets/Ag9900M-datasheet-ultra-miniature-isolated-Power-over-Ethernet-POE-module.pdf
-DCDC converter IEEE 802.3af
-0
-8
-8
-Converter_DCDC
 Converter_DCDC_Silvertel_Ag5810
 DCDC-Converter, 60W POE, Silvertel, pitch 2.54mm, package size 69.98x30x15.64mm, https://silvertel.com/images/datasheets/Ag5810-datasheet-IEEE802_3bt-Power-over-Ethernet-4-pair-PD.pdf
 DCDC-Converter Silvertel Ag5810 single output POE
@@ -51344,27 +49958,6 @@ dcdc traco 5w
 0
 6
 6
-Converter_DCDC
-Converter_DCDC_TRACO_TEA1-xxxx_THT
-DCDC-Converter, TRACO, TEA1-xxxx, 1W, Rev. August 31. 2023 (Script generated with StandardBox.py) (https://www.tracopower.com/products/tea1.pdf)
-DCDC-Converter TRACO TEA1 THT SIP-4 1W
-0
-4
-4
-Converter_DCDC
-Converter_DCDC_TRACO_TEA1E-xxxx_THT
-DCDC-Converter, TRACO, TEA1E-xxxx, 1W, Rev. September 7. 2023 (Script generated with StandardBox.py) (https://www.tracopower.com/products/tea1e.pdf)
-DCDC-Converter TRACO TEA1E THT SIP-7 1W
-0
-4
-4
-Converter_DCDC
-Converter_DCDC_TRACO_TEA1HI-xxxx_THT
-DCDC-Converter, TRACO, TEA1HI-xxxx, 1W, Rev. September 21. 2023 (Script generated with StandardBox.py) (https://www.tracopower.com/products/tea1hi.pdf)
-DCDC-Converter TRACO TEA1HI THT SIP-7 1W
-0
-4
-4
 Converter_DCDC
 Converter_DCDC_TRACO_TEL12-xxxx_THT
 Traco 12W, THT (https://www.tracopower.com/sites/default/files/products/datasheets/tel12_datasheet.pdf)
@@ -51416,39 +50009,11 @@ traco dcdc tht 15w
 9
 Converter_DCDC
 Converter_DCDC_TRACO_THN30-xxxx_THT
-DCDC-Converter TRACO THN 10 to 30W, Single or dual Output, (https://www.tracopower.com/sites/default/files/products/datasheets/thn30_datasheet.pdf)
+DCDC-Converter TRACO THN 10 to 30W, Single or dual Output, (https://www.tracopower.com/sites/default/files/products/datasheets/thn15wi_datasheet.pdf)
 DCDC-Converter TRACO THN30 Generic
 0
 6
-6
-Converter_DCDC
-Converter_DCDC_TRACO_TMA-05xxD_12xxD_Dual_THT
-DCDC-Converter, TRACO, TMA-05xxD, TMA-12xxD, Dual outputs, Rev. August 29. 2023, https://www.tracopower.com/products/tma.pdf
-DCDC-Converter TRACO TMA-05xxD TMA-12xxD Dual THT
-0
 5
-5
-Converter_DCDC
-Converter_DCDC_TRACO_TMA-05xxS_12xxS_Single_THT
-DCDC-Converter, TRACO, TMA-05xxS, TMA-12xxS Single output, Rev. August 29. 2023, https://www.tracopower.com/products/tma.pdf
-DCDC-Converter TRACO TMA-05xxS TMA-12xxS Single THT
-0
-4
-4
-Converter_DCDC
-Converter_DCDC_TRACO_TMA-15xxD_24xxD_Dual_THT
-DCDC-Converter, TRACO, TMA-15xxD, TMA-24xxD, Dual outputs, Rev. August 29. 2023, https://www.tracopower.com/products/tma.pdf
-DCDC-Converter TRACO TMA-15xxD TMA-24xxD Dual THT
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_TRACO_TMA-15xxS_24xxS_Single_THT
-DCDC-Converter, TRACO, TMA-15xxS, TMA-24xxS, Single output, Rev. August 29. 2023, https://www.tracopower.com/products/tma.pdf
-DCDC-Converter TRACO TMA-15xxS TMA-24xxS Single THT
-0
-4
-4
 Converter_DCDC
 Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT
 DCDC-Converter, TRACO, TMR 1-xxxx, Dual output, Rev. March 21.2016
@@ -51589,20 +50154,6 @@ DCDC-Converter XP_POWER JTE06 Dual
 0
 8
 8
-Converter_DCDC
-Converter_DCDC_muRata_MEJ1DxxxxSC_THT
-muRata MEJ1DxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 1W, dual output, SIP package style, https://power.murata.com/data/power/ncl/kdc_mej1.pdf
-muRata MEJ1D DCDC-Converter
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_muRata_MEJ1SxxxxSC_THT
-muRata MEJ1SxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 1W, single output, SIP package style, https://power.murata.com/data/power/ncl/kdc_mej1.pdf
-muRata MEJ1S DCDC-Converter
-0
-4
-4
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
@@ -53402,20 +51953,6 @@ TVS protection diodes
 0
 2
 2
-Diode_SMD
-Nexperia_DSN1608-2_1.6x0.8mm
-Diode SMD DSN1608, 1.6 x 0.8 x 0.29 mm, https://assets.nexperia.com/documents/package-information/SOD964.pdf
-diode SOD964 SOD-964
-0
-2
-2
-Diode_SMD
-Vishay_SMPA
-Diode SMPA (DO-221BC), https://www.vishay.com/docs/87659/v8pa10.pdf
-Diode SMPA (DO-221BC)
-0
-2
-2
 Diode_THT
 D_5KPW_P7.62mm_Vertical_AnodeUp
 Diode, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
@@ -55021,14 +53558,14 @@ SAW filter 6-pin
 6
 Filter
 Filter_Schaffner_FN405
-Compact PCB mounting EMI filter (https://www.schaffner.com/product/FN405/Schaffner_datasheet_FN405.pdf)
+Compact PCB mounting EMI filter (https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/)
 EMI filter
 0
 5
 5
 Filter
 Filter_Schaffner_FN406
-Ultra Compact EMC Filter (https://www.schaffner.com/product/FN406/Schaffner_datasheet_FN406.pdf)
+Ultra Compact EMC Filter (https://www.schaffner.com/products/download/product/datasheet/fn-406-ultra-compact-emc-filter/)
 emi filter
 0
 5
@@ -55503,20 +54040,6 @@ Fuse Nano2
 2
 2
 Fuse
-Fuse_Littelfuse-NANO2-462
-Littelfuse NANO2, 250VAC/VDC, 350VAC/VDC, 10.5 x 4.5 x 4.5mm, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=6201db33-6e55-43f2-b41f-15e38bdd2c99&filename=littelfuse-fuse-462-datasheet
-Fuse Nano2 462
-0
-2
-2
-Fuse
-Fuse_Littelfuse-NANO2-885
-Littelfuse NANO2, 350VAC, 450/500VDC, 10.86 x 4.78 x 4.78mm, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=888f12ed-ed3b-4b45-b910-06af8854ad76&filename=littelfuse-fuse-885-datasheet
-Fuse Nano2 885
-0
-2
-2
-Fuse
 Fuse_Littelfuse_372_D8.50mm
 Fuse, Littelfuse, 372, 8.5x8mm, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_372_datasheet.pdf.pdf
 fuse tht radial
@@ -55972,40 +54495,12 @@ Heatsink sheet
 2
 1
 Heatsink
-Heatsink_Stonecold_HS-130_30x12mm_2xFixation2.5mm
-Heatsink, StoneCold HS, https://www.tme.eu/Document/da20d9b42617e16f6777c881dc9e3434/hs-130.pdf
-heatsink
-0
-2
-1
-Heatsink
 Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
 Heatsink, StoneCold HS
 heatsink
 0
 2
 1
-Heatsink
-Heatsink_Stonecold_HS-S01_13.21x6.35mm
-Heatsink, Stonecold, HS, https://www.tme.eu/Document/f7f93f538b934e0b08e09747396fb95f/hs-s.pdf
-heatsink
-0
-0
-0
-Heatsink
-Heatsink_Stonecold_HS-S02_13.21x9.53mm
-Heatsink, Stonecold, HS, https://www.tme.eu/Document/f7f93f538b934e0b08e09747396fb95f/hs-s.pdf
-heatsink
-0
-0
-0
-Heatsink
-Heatsink_Stonecold_HS-S03_13.21x12.7mm
-Heatsink, Stonecold, HS, https://www.tme.eu/Document/f7f93f538b934e0b08e09747396fb95f/hs-s.pdf
-heatsink
-0
-0
-0
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -56412,13 +54907,6 @@ Bourns SRR1260 SMD inductor
 0
 2
 2
-Inductor_SMD
-L_Bourns_SRU5016_5.2x5.2mm
-Bourns SRU5016 series shielded SMD power inductor, 1.6mm height https://www.bourns.com/docs/product-datasheets/sru5016.pdf
-Bourns SRU5016 SMD inductor
-0
-4
-3
 Inductor_SMD
 L_Changjiang_FNR3010S
 Inductor, Changjiang, FNR3010S, 3.0x3.0x1.0mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
@@ -57183,13 +55671,6 @@ Inductor xal
 2
 2
 Inductor_SMD
-L_Coilcraft_XFL2010
-Coilcraft XFL2010, Shielded power inductor, 0808, 1.9x2.0mm, https://www.coilcraft.com/getmedia/50382b97-998f-4b75-b5ee-4a93b0ac4411/xfl2010.pdf
-miniature
-0
-2
-2
-Inductor_SMD
 L_Coilcraft_XxL4020
 L_Coilcraft_XxL4020 https://www.coilcraft.com/pdfs/xfl4020.pdf
 L Coilcraft XxL4020
@@ -57239,13 +55720,6 @@ inductor common mode choke
 4
 4
 Inductor_SMD
-L_CommonModeChoke_TDK_ACM7060
-ACM7060 SMT Common Mode Filter, https://product.tdk.com/system/files/dam/doc/product/emc/emc/cmf_cmc/catalog/cmf_commercial_power_acm7060_en.pdf
-SMT Common Mode Line Filter
-0
-4
-4
-Inductor_SMD
 L_CommonModeChoke_Wuerth_WE-SL5
 WE-SL5 SMT Common Mode Line Filter, https://www.we-online.de/katalog/en/WE-SL5/, https://www.we-online.de/katalog/datasheet/744272471.pdf
 SMT Common Mode Line Filter
@@ -57263,13 +55737,6 @@ Inductor_SMD
 L_CommonMode_Wuerth_WE-SL2
 http://katalog.we-online.de/en/pbs/WE-SL2?sid=5fbec16187#vs_t1:c1_ct:1
 Wuerth WE-SL2
-0
-4
-4
-Inductor_SMD
-L_CommonMode_Wurth_WE-CNSW-1206
-WE-CNSW SMT Common Mode Line Filter, https://www.we-online.com/components/products/datasheet/744232090.pdf
-common mode choke 1206 cnsw
 0
 4
 4
@@ -59121,20 +57588,6 @@ wurth wuerth smd inductor
 0
 2
 2
-Inductor_SMD
-L_Wuerth_WE-XHMI-8080
-Inductor, Wuerth, WE-XHMI 8080, 8.3mmx8.8mm (Script generated with StandardBox.py) (https://www.we-online.com/components/products/datasheet/74439358068.pdf)
-Inductor Wuerth WE-XHMI 8080
-0
-2
-2
-Inductor_SMD
-L_Wurth_WE-CAIR-5910
-WE-CAIR Air coil, https://www.we-online.com/components/products/datasheet/744918254.pdf
-air coil inductor wurth we cair
-0
-2
-2
 Inductor_SMD_Wurth
 L_Wurth_WE-LQSH-2010
 Semi-Shielded High Saturation Power Inductor, body 2x1.6mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-2010
@@ -59179,7 +57632,7 @@ chokes schaffner tht
 4
 Inductor_THT
 Choke_Schaffner_RN112-04-17.7x17.1mm
-Current-compensated Chokes, Schaffner, RN112-04, 17.7mmx17.1mm https://www.schaffner.com/fileadmin/user_upload/pim/products/datasheets/RN_series.pdf
+Current-compensated Chokes, Schaffner, RN112-04, 17.7mmx17.1mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/
 chokes schaffner tht
 0
 4
@@ -59878,34 +58331,6 @@ cmode choke dual
 4
 4
 Inductor_THT
-L_CommonMode_TDK_B82747E6163A040
-3 Phase, CM Choke, drill hole 2mm ( https://product.tdk.com/system/files/dam/doc/product/emc/emc/line-filter/data_sheet/30/ds/b82747e6.pdf )
-three phase common mode triple choke
-0
-6
-6
-Inductor_THT
-L_CommonMode_TDK_B82747E6203A040
-3 Phase, CM Choke, drill hole 2.2mm ( https://product.tdk.com/system/files/dam/doc/product/emc/emc/line-filter/data_sheet/30/ds/b82747e6.pdf )
-three phase common mode triple choke
-0
-6
-6
-Inductor_THT
-L_CommonMode_TDK_B82747E6253A040
-3 Phase, CM Choke, drill hole 2.44mm ( https://product.tdk.com/system/files/dam/doc/product/emc/emc/line-filter/data_sheet/30/ds/b82747e6.pdf )
-three phase common mode triple choke
-0
-6
-6
-Inductor_THT
-L_CommonMode_TDK_B82747E6353A040
-3 Phase, CM Choke, drill hole 3mm ( https://product.tdk.com/system/files/dam/doc/product/emc/emc/line-filter/data_sheet/30/ds/b82747e6.pdf )
-three phase common mode triple choke
-0
-6
-6
-Inductor_THT
 L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100
 L_CommonMode_Toroid, Vertical series, Radial, pin pitch=6.35*15.24mm^2, , length*width=19.304*10.795mm^2, Bourns, 8100, http://datasheet.octopart.com/8120-RC-Bourns-datasheet-10228452.pdf
 L_CommonMode_Toroid Vertical series Radial pin pitch 6.35*15.24mm^2  length 19.304mm width 10.795mm Bourns 8100
@@ -60033,35 +58458,35 @@ CommonModeChoke Gleichtaktdrossel
 4
 Inductor_THT
 L_Mount_Lodestone_VTM120
-Lodestone Pacific, 30.48mm diameter vertical toroid mount, 16AWG/1.27mm holes, https://www.lodestonepacific.com/wp-content/uploads/2020/07/VTM-Series-Full-Page.pdf
+Lodestone Pacific, 30.48mm diameter vertical toroid mount, 16AWG/1.27mm holes, http://www.lodestonepacific.com/CatKpdf/VTM_Series.pdf
 vertical inductor toroid mount
 0
 4
 4
 Inductor_THT
 L_Mount_Lodestone_VTM160
-Lodestone Pacific, 40.64mm diameter vertical toroid mount, 16AWG/1.27mm holes, https://www.lodestonepacific.com/wp-content/uploads/2020/07/VTM-Series-Full-Page.pdf
+Lodestone Pacific, 40.64mm diameter vertical toroid mount, 16AWG/1.27mm holes, http://www.lodestonepacific.com/CatKpdf/VTM_Series.pdf
 vertical inductor toroid mount
 0
 4
 4
 Inductor_THT
 L_Mount_Lodestone_VTM254
-Lodestone Pacific, 64.51mm diameter vertical toroid mount, 16AWG/1.27mm holes, https://www.lodestonepacific.com/wp-content/uploads/2020/07/VTM-Series-Full-Page.pdf
+Lodestone Pacific, 64.51mm diameter vertical toroid mount, 16AWG/1.27mm holes, http://www.lodestonepacific.com/CatKpdf/VTM_Series.pdf
 vertical inductor toroid mount
 0
 4
 4
 Inductor_THT
 L_Mount_Lodestone_VTM280
-Lodestone Pacific, 71.12mm diameter vertical toroid mount, 16AWG/1.27mm holes, https://www.lodestonepacific.com/wp-content/uploads/2020/07/VTM-Series-Full-Page.pdf
+Lodestone Pacific, 71.12mm diameter vertical toroid mount, 16AWG/1.27mm holes, http://www.lodestonepacific.com/CatKpdf/VTM_Series.pdf
 vertical inductor toroid mount
 0
 4
 4
 Inductor_THT
 L_Mount_Lodestone_VTM950-6
-Lodestone Pacific, vertical toroid mount, 11x19mm, 6 pins, https://www.lodestonepacific.com/wp-content/uploads/2021/05/VTM950-6.pdf
+Lodestone Pacific, vertical toroid mount, 11x19mm, 6 pins, http://www.lodestonepacific.com/CatKpdf/VTM950-6.pdf
 vertical inductor toroid mount
 0
 6
@@ -61377,8 +59802,8 @@ Tricolor LED
 4
 LED_SMD
 LED_Avago_PLCC4_3.2x2.8mm_CW
-3.2mm x 2.8mm PLCC4 RGB LED, https://docs.broadcom.com/docs/AV02-4186EN
-LED Avago PLCC-4 3528 ASMB-MTB0-0A3A2
+https://docs.broadcom.com/docs/AV02-4186EN
+LED Avago PLCC-4 ASMB-MTB0-0A3A2
 0
 4
 4
@@ -61398,22 +59823,22 @@ LED Samsung LH181B
 2
 LED_SMD
 LED_Cree-PLCC4_2x2mm_CW
-2.0mm x 2.0mm PLCC4 LED, https://assets.cree-led.com/a/ds/h/HB-CLMVC-FKA.pdf
-LED Cree PLCC-4 2020 CLMVB-FKA CLMVC-FKA
+2.0mm x 2.0mm PLCC4 LED, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLMVBFKA.pdf
+LED Cree PLCC-4
 0
 4
 4
 LED_SMD
 LED_Cree-PLCC4_3.2x2.8mm_CCW
-3.2mm x 2.8mm PLCC4 RGB LED, https://assets.cree-led.com/a/ds/h/HB-CLV1A-FKB.pdf
-LED Cree PLCC-4 3528 CLV1A-FKB
+3.2mm x 2.8mm PLCC4 LED, http://www.cree.com/led-components/media/documents/CLV1AFKB(874).pdf
+LED Cree PLCC-4
 0
 4
 4
 LED_SMD
 LED_Cree-PLCC4_5x5mm_CW
 5.0mm x 5.0mm PLCC4 LED
-LED Cree PLCC-4 5050
+LED Cree PLCC-4
 0
 4
 4
@@ -61510,8 +59935,8 @@ LED Dialight 591
 2
 LED_SMD
 LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm
-5.0mm x 5.0mm PLCC4 Addressable RGB LED, http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf
-LED RGB NeoPixel addressable PLCC-4 5050
+http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf
+RGB LED NeoPixel addressable
 0
 4
 4
@@ -61686,7 +60111,7 @@ RGB LED PLCC-6
 LED_SMD
 LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100
 3.2mm x 2.8mm PLCC4 LED, https://www.we-online.de/katalog/datasheet/150141M173100.pdf
-LED RGB Wurth PLCC-4 3528
+LED RGB Wurth PLCC-4
 0
 4
 4
@@ -61700,14 +60125,14 @@ LED ROHM SMLVN6
 LED_SMD
 LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
 https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
-LED RGB NeoPixel Nano PLCC-4
+LED RGB NeoPixel Nano
 0
 4
 4
 LED_SMD
 LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
-3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
-LED RGB NeoPixel Mini PLCC-4 3535
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
 0
 4
 4
@@ -61720,22 +60145,22 @@ LED RGB NeoPixel
 4
 LED_SMD
 LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm
-5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
-LED RGB NeoPixel PLCC-4 5050
+https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
+LED RGB NeoPixel
 0
 4
 4
 LED_SMD
 LED_WS2812B-2020_PLCC4_2.0x2.0mm
-2.0mm x 2.0mm Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
-LED RGB NeoPixel Nano PLCC-4 2020
+Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano 2020
 0
 4
 4
 LED_SMD
 LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
-5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
-LED RGB NeoPixel PLCC-4 5050
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
 0
 4
 4
@@ -65513,13 +63938,6 @@ Resistor LDR
 2
 2
 OptoDevice
-Renesas_DFN-6_1.5x1.6mm_P0.5mm
-DFN, 6 Pin (https://www.renesas.com/us/en/document/psc/package-drawing-hodfn-6pin-l615x16?language=en&r=568376)
-DFN NoLead
-0
-6
-6
-OptoDevice
 ST_VL53L0X
 https://www.st.com/resource/en/datasheet/vl53l1x.pdf
 laser-ranging sensor
@@ -65584,7 +64002,7 @@ IRReceiverVishayTSOP-xxxx CAST
 3
 OptoDevice
 Vishay_CNY70
-package for Vishay CNY70 refective photo coupler/interrupter, https://www.vishay.com/docs/83751/cny70.pdf
+package for Vishay CNY70 refective photo coupler/interrupter
 Vishay CNY70 refective photo coupler
 0
 4
@@ -66058,286 +64476,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PCM_Espressif
-ESP32-C3-DevKitM-1
-
-
-0
-30
-30
-PCM_Espressif
-ESP32-C3-MINI-1
-ESP32-C3-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
-0
-61
-53
-PCM_Espressif
-ESP32-C3-MINI-1U
-ESP32-C3-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
-0
-61
-53
-PCM_Espressif
-ESP32-C3-MINI-1_HandSoldering
-ESP32-C3-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
-0
-61
-53
-PCM_Espressif
-ESP32-C3-WROOM-02
-ESP32-C3-WROOM-02: https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
-ESP32-C3
-0
-27
-19
-PCM_Espressif
-ESP32-C3-WROOM-02U
-ESP32-C3-WROOM-02: https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
-ESP32-C3
-0
-27
-19
-PCM_Espressif
-ESP32-C6-DevKitC-1
-ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.
-ESP32-C6
-0
-32
-32
-PCM_Espressif
-ESP32-C6-DevKitM-1
-ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.
-ESP32-C6
-0
-30
-30
-PCM_Espressif
-ESP32-C6-MINI-1
-ESP32-C6-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1_datasheet_en.pdf
-ESP32-C6
-0
-61
-53
-PCM_Espressif
-ESP32-C6-MINI-1U
-ESP32-C6-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1_datasheet_en.pdf
-ESP32-C6
-0
-61
-53
-PCM_Espressif
-ESP32-C6-WROOM-1
-ESP32-C6-WROOM-1: https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_datasheet_en.pdf
-esp32-c6
-0
-37
-29
-PCM_Espressif
-ESP32-DevKitC
-ESP32-DevKitC: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html
-ESP32
-0
-38
-38
-PCM_Espressif
-ESP32-H2-MINI-1
-ESP32-H2-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-h2-mini-1_mini-1u_datasheet_en.pdf
-ESP32-H2
-0
-61
-53
-PCM_Espressif
-ESP32-MINI-1
-ESP32-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf
-ESP32-MINI-1
-0
-63
-55
-PCM_Espressif
-ESP32-MINI-1U
-ESP32-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf
-ESP32-MINI-1U
-0
-63
-55
-PCM_Espressif
-ESP32-PICO-MINI-02
-ESP32-PICO-MINI-02: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02
-0
-61
-53
-PCM_Espressif
-ESP32-PICO-MINI-02U
-ESP32-PICO-MINI-02U: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02U
-0
-61
-53
-PCM_Espressif
-ESP32-PICO-MINI-02_HandSoldering
-ESP32-PICO-MINI-02: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02
-0
-61
-53
-PCM_Espressif
-ESP32-S2-DevKitC-1
-ESP32-S2 general-purpose development board, based on ESP32-S2-SOLO or ESP32-S2-SOLO-U,It has all the ESP32-S2 pins exposed and is easy to connect and use.
-ESP32-S2
-0
-44
-44
-PCM_Espressif
-ESP32-S2-DevKitM
-ESP32-S2 general-purpose development board
-ESP32-S2
-0
-42
-42
-PCM_Espressif
-ESP32-S2-MINI-1
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2
-0
-73
-65
-PCM_Espressif
-ESP32-S2-MINI-1U
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2
-0
-73
-65
-PCM_Espressif
-ESP32-S2-MINI-1_HandSoldering
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2 Hand Soldering
-0
-73
-65
-PCM_Espressif
-ESP32-S2-SOLO
-ESP32-S2-SOLO https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo_esp32-s2-solo-u_datasheet_en.pdf
-esp32-s2 module
-0
-49
-41
-PCM_Espressif
-ESP32-S2-SOLO-2U
-ESP32-S2-SOLO-2U https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo-2_esp32-s2-solo-2u_datasheet_en.pdf
-esp32-s2 module
-0
-49
-41
-PCM_Espressif
-ESP32-S2-Saola-1
-Espressif ESP32-S2-Saola-1 Development Kit: https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html
-esp32-s2 devkit
-0
-42
-42
-PCM_Espressif
-ESP32-S2-WROOM
-ESP32-S2-WROOM and ESP32-S2-WROOM-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
-ESP32-S2
-0
-51
-43
-PCM_Espressif
-ESP32-S2-WROVER
-ESP32-S2-WROVER and ESP32-S2-WROVER-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wrover_esp32-s2-wrover-i_datasheet_en.pdf
-ESP32-S2
-0
-55
-43
-PCM_Espressif
-ESP32-S3-DevKitC
-ESP32-S3 general-purpose development board, based on ESP32-S3-WROOM-1 or ESP32-S3-WROOM-1U,It has all the ESP32-S3 pins exposed and is easy to connect and use.
-ESP32-S3
-0
-44
-44
-PCM_Espressif
-ESP32-S3-MINI-1
-ESP32-S3-MINI-1
-esp32-s3
-0
-73
-65
-PCM_Espressif
-ESP32-S3-MINI-1U
-ESP32-S3-MINI-1 and ESP32-S3-MINI-1U
-esp32-s3
-0
-73
-65
-PCM_Espressif
-ESP32-S3-WROOM-1
-ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-51
-41
-PCM_Espressif
-ESP32-S3-WROOM-1U
-ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-49
-41
-PCM_Espressif
-ESP32-S3-WROOM-2
-ESP32-S3-WROOM-2 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-51
-41
-PCM_Espressif
-ESP32-WROOM-32E
-ESP32-WROOM-32E and ESP32-WROOM-32UE: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-ESP32
-0
-50
-39
-PCM_Espressif
-ESP32-WROOM-32UE
-ESP32-WROOM-32E and ESP32-WROOM-32UE: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-ESP32
-0
-47
-39
-PCM_Espressif
-ESP32-WROOM-DA
-ESP32-WROOM-DA: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-da_datasheet_en.pdf
-ESP32 Dual Antenna DA
-0
-49
-41
-PCM_Espressif
-ESP32-WROVER-E
-ESP32-WROVER-E: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-esp32 module
-0
-47
-39
-PCM_Espressif
-ESP32-WROVER-E_ThermalVias
-ESP32-WROVER-E: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-esp32 module thermal vias
-0
-59
-39
-PCM_Espressif
-QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm
-QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8153-8-and-16-bit-avr-microcontroller-xmega-e-atxmega8e5-atxmega16e5-atxmega32e5_datasheet.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-37
-33
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -66930,20 +65068,6 @@ Package_BGA
 Texas_DSBGA-6_0.704x1.054mm_Layout2x3_P0.35mm
 Texas Instruments, DSBGA-6, 0.704x1.054mm, NSMD, YKA pad definition, 0.704x1.054mm, 6 Ball, 2x3 Layout, 0.35mm Pitch, https://www.ti.com/lit/ml/mxbg383/mxbg383.pdf, https://www.ti.com/lit/ds/symlink/tps62800.pdf
 BGA 6 0.35
-0
-6
-6
-Package_BGA
-Texas_DSBGA-6_0.855x1.255mm_Layout2x3_P0.4mm_LevelB
-Texas Instruments, DSBGA, area grid, YBG pad definition, 0.95x1.488mm, 6 Ball, 2x3 Layout, 0.4mm Pitch, YFF0006, NSMD pad definition,  https://www.ti.com/lit/ds/symlink/lmg1020.pdf, https://www.ti.com/lit/ml/mxbg078z/mxbg078z.pdf
-BGA 6 0.4 YFF0006
-0
-6
-6
-Package_BGA
-Texas_DSBGA-6_0.855x1.255mm_Layout2x3_P0.4mm_LevelC
-Texas Instruments, DSBGA, area grid, YBG pad definition, 0.95x1.488mm, 6 Ball, 2x3 Layout, 0.4mm Pitch, YFF0006, NSMD pad definition,  https://www.ti.com/lit/ds/symlink/lmg1020.pdf, https://www.ti.com/lit/ml/mxbg078z/mxbg078z.pdf
-BGA 6 0.4 YFF0006
 0
 6
 6
@@ -67661,13 +65785,6 @@ LFCSP NoLead
 0
 31
 17
-Package_CSP
-LFCSP-16_3x3mm_P0.5mm
-LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_32.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-LFCSP NoLead
-0
-16
-16
 Package_CSP
 LFCSP-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
 20-Lead Frame Chip Scale Package - 4x4x0.9 mm Body [LFCSP], (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_20_6.pdf)
@@ -68530,13 +66647,6 @@ DFN 0.5
 9
 7
 Package_DFN_QFN
-DFN-6-1EP_2x2mm_P0.65mm_EP1.01x1.7mm
-DFN, 6 Pin (https://www.diodes.com/assets/Package-Files/U-DFN2020-6%20(Type%20C).pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead
-0
-9
-7
-Package_DFN_QFN
 DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm
 6-Lead Plastic Dual Flat, No Lead Package (MA) - 2x2x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)
 DFN 0.65
@@ -69125,18 +67235,25 @@ mlpq 32 7x7mm
 76
 33
 Package_DFN_QFN
-Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm
-MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2052mpbf.pdf?fileId=5546d462533600a401535675d3b32788)
-mlpq 32 7x7mm
-0
-115
-49
-Package_DFN_QFN
 Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm
 MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2093mpbf.pdf?fileId=5546d462533600a401535675fb892793)
 mlpq 32 7x7mm
 0
 113
+49
+Package_DFN_QFN
+Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.15x5.15mm
+MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2052mpbf.pdf?fileId=5546d462533600a401535675d3b32788)
+mlpq 32 7x7mm
+0
+117
+49
+Package_DFN_QFN
+Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_Pad5.55x5.55mm
+MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2093mpbf.pdf?fileId=5546d462533600a401535675fb892793)
+mlpq 32 7x7mm
+0
+117
 49
 Package_DFN_QFN
 Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm
@@ -69334,13 +67451,6 @@ AQFN 7mm
 0
 78
 74
-Package_DFN_QFN
-Nordic_AQFN-94-1EP_7x7mm_P0.4mm
-aQFN, Nordic, nRF5340, https://infocenter.nordicsemi.com/pdf/nRF5340_PS_v1.2.pdf
-aqfn qfn nordic nrf nrf5340 aqfn94
-0
-103
-95
 Package_DFN_QFN
 OnSemi_DFN-8_2x2mm_P0.5mm
 DFN8 2x2, 0.5P (https://www.onsemi.com/pub/Collateral/511AT.PDF)
@@ -69832,20 +67942,6 @@ QFN NoLead
 39
 25
 Package_DFN_QFN
-QFN-24-1EP_4x4mm_P0.5mm_EP2.75x2.75mm
-QFN, 24 Pin (https://www.infineon.com/dgdl/Infineon-EZ-PD_BCR_Datasheet_USB_Type-C_Port_Controller_for_Power_Sinks-DataSheet-v03_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ee7ce9d70ad), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-29
-25
-Package_DFN_QFN
-QFN-24-1EP_4x4mm_P0.5mm_EP2.75x2.75mm_ThermalVias
-QFN, 24 Pin (https://www.infineon.com/dgdl/Infineon-EZ-PD_BCR_Datasheet_USB_Type-C_Port_Controller_for_Power_Sinks-DataSheet-v03_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ee7ce9d70ad), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-39
-25
-Package_DFN_QFN
 QFN-24-1EP_4x5mm_P0.5mm_EP2.65x3.65mm
 QFN, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_24_05-08-1696.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -69900,20 +67996,6 @@ QFN, 24 Pin (https://www.nxp.com/docs/en/package-information/98ASA00734D.pdf), g
 QFN NoLead
 0
 67
-25
-Package_DFN_QFN
-QFN-24-1EP_5x5mm_P0.65mm_EP3.25x3.25mm
-QFN, 24 Pin (https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MDkO/lWPNMeJClEs8Zvyu7AlDlKSyZqhYdVpQzFLVfUp.EXs), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-29
-25
-Package_DFN_QFN
-QFN-24-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias
-QFN, 24 Pin (https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MDkO/lWPNMeJClEs8Zvyu7AlDlKSyZqhYdVpQzFLVfUp.EXs), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-51
 25
 Package_DFN_QFN
 QFN-28-1EP_3x6mm_P0.5mm_EP1.7x4.75mm
@@ -70497,34 +68579,6 @@ QFN NoLead
 91
 49
 Package_DFN_QFN
-QFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm
-QFN, 48 Pin (http://ww1.microchip.com/downloads/en/devicedoc/00002117f.pdf#page=69), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-58
-49
-Package_DFN_QFN
-QFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_ThermalVias
-QFN, 48 Pin (http://ww1.microchip.com/downloads/en/devicedoc/00002117f.pdf#page=69), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-75
-49
-Package_DFN_QFN
-QFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm
-QFN, 48 Pin (http://ww1.microchip.com/downloads/en/devicedoc/00002117f.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-65
-49
-Package_DFN_QFN
-QFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm_ThermalVias
-QFN, 48 Pin (http://ww1.microchip.com/downloads/en/devicedoc/00002117f.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-91
-49
-Package_DFN_QFN
 QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm
 QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf#page=62), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -70714,20 +68768,6 @@ QFN NoLead
 99
 57
 Package_DFN_QFN
-QFN-56-1EP_8x8mm_P0.5mm_EP6.1x6.1mm
-QFN, 56 Pin (http://intantech.com/files/Intan_RHD2000_series_datasheet.pdf#page=38), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-73
-57
-Package_DFN_QFN
-QFN-56-1EP_8x8mm_P0.5mm_EP6.1x6.1mm_ThermalVias
-QFN, 56 Pin (http://intantech.com/files/Intan_RHD2000_series_datasheet.pdf#page=38), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-99
-57
-Package_DFN_QFN
 QFN-64-1EP_8x8mm_P0.4mm_EP6.5x6.5mm
 QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/64L_VQFN_8x8_with%206_5x6_5%20EP_JXX_C04-0437A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -70765,20 +68805,6 @@ QFN NoLead
 Package_DFN_QFN
 QFN-64-1EP_9x9mm_P0.5mm_EP3.8x3.8mm_ThermalVias
 QFN, 64 Pin (https://datasheet.lcsc.com/szlcsc/Realtek-Semicon-RTL8211EG-VB-CG_C69264.pdf#page=77), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-79
-65
-Package_DFN_QFN
-QFN-64-1EP_9x9mm_P0.5mm_EP4.1x4.1mm
-QFN, 64 Pin (https://www.silabs.com/documents/public/data-sheets/cp2108-datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-74
-65
-Package_DFN_QFN
-QFN-64-1EP_9x9mm_P0.5mm_EP4.1x4.1mm_ThermalVias
-QFN, 64 Pin (https://www.silabs.com/documents/public/data-sheets/cp2108-datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
 0
 79
@@ -71029,7 +69055,7 @@ UFQFPN 0.5
 20
 20
 Package_DFN_QFN
-ST_UQFN-6L_1.5x1.7mm_P0.5mm
+ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm
 ST UQFN 6 pin 0.5mm Pitch http://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf
 UQFN DFN 0.5 ST
 0
@@ -71203,20 +69229,6 @@ TQFN NoLead
 0
 31
 17
-Package_DFN_QFN
-TQFN-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
-TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF (T2044-2)), generated with kicad-footprint-generator ipc_noLead_generator.py
-TQFN NoLead
-0
-25
-21
-Package_DFN_QFN
-TQFN-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm_ThermalVias
-TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF (T2044-2)), generated with kicad-footprint-generator ipc_noLead_generator.py
-TQFN NoLead
-0
-30
-21
 Package_DFN_QFN
 TQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
 TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF (T2044-5C)), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -71533,20 +69545,6 @@ QFN NoLead
 27
 18
 Package_DFN_QFN
-Texas_RGY_R-PVQFN-N20_EP2.05x3.05mm
-QFN, 20 Pin, RGY0020A (https://www.ti.com/lit/ds/symlink/txb0108.pdf#page=33)
-QFN NoLead
-0
-25
-21
-Package_DFN_QFN
-Texas_RGY_R-PVQFN-N20_EP2.05x3.05mm_ThermalVias
-QFN, 20 Pin, RGY0020A (https://www.ti.com/lit/ds/symlink/txb0108.pdf#page=33)
-QFN NoLead
-0
-29
-21
-Package_DFN_QFN
 Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm
 QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq24133.pdf#page=40)
 QFN NoLead
@@ -71560,20 +69558,6 @@ QFN NoLead
 0
 36
 25
-Package_DFN_QFN
-Texas_RJE0020A_VQFN-20-1EP_3x3mm_P0.45mm_EP0.675x0.76mm
-Texas RJE0020A VQFN, 20 Pin (https://www.ti.com/lit/ds/symlink/tps51396a.pdf#page=31), generated with kicad-footprint-generator ipc_noLead_generator.py
-Texas VQFN NoLead
-0
-22
-21
-Package_DFN_QFN
-Texas_RJE0020A_VQFN-20-1EP_3x3mm_P0.45mm_EP0.675x0.76mm_ThermalVias
-Texas RJE0020A VQFN, 20 Pin (https://www.ti.com/lit/ds/symlink/tps51396a.pdf#page=31), generated with kicad-footprint-generator ipc_noLead_generator.py
-Texas VQFN NoLead
-0
-24
-21
 Package_DFN_QFN
 Texas_RNN0018A
 Texas Instruments, VQFN-HR RNN0018A (http://www.ti.com/lit/ds/symlink/tps568215.pdf)
@@ -71896,27 +69880,6 @@ Texas RSE0010 UQFN NoLead
 0
 10
 10
-Package_DFN_QFN
-Texas_VQFN-HR-12_2x2.5mm_P0.5mm
-Texas  VQFN-HR, 12 Pin, http://www.ti.com/lit/ml/mpqf508/mpqf508.pdf
-RUX0012A Texas VQFN-HR NoLead
-0
-12
-12
-Package_DFN_QFN
-Texas_VQFN-HR-12_2x2.5mm_P0.5mm_ThermalVias
-Texas  VQFN-HR, 12 Pin, http://www.ti.com/lit/ml/mpqf508/mpqf508.pdf
-RUX0012A Texas VQFN-HR NoLead
-0
-16
-12
-Package_DFN_QFN
-Texas_VQFN-HR-20_3x2.5mm_P0.5mm_RQQ0011A
-Texas  VQFN-HR, 11 Pin, https://www.ti.com/lit/ml/mpqf579/mpqf579.pdf
-RQQ0011A
-0
-15
-11
 Package_DFN_QFN
 Texas_VQFN-RHL-20
 http://www.ti.com/lit/ds/symlink/bq51050b.pdf
@@ -72429,20 +70392,6 @@ VQFN NoLead
 91
 65
 Package_DFN_QFN
-Vishay_PowerPAK_MLP44-24L
-PowerPAK PowerPAK MLP44-24L (https://www.vishay.com/docs/78231/mlp44-24l.pdf)
-powerpak mlp44-24l
-0
-28
-28
-Package_DFN_QFN
-Vishay_PowerPAK_MLP44-24L_ThermalVias
-PowerPAK PowerPAK MLP44-24L (https://www.vishay.com/docs/78231/mlp44-24l.pdf)
-powerpak mlp44-24l
-0
-35
-28
-Package_DFN_QFN
 W-PDFN-8-1EP_6x5mm_P1.27mm_EP3x3mm
 W-PDFN, 8 Pin (https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/nor-flash/serial-nor/mt25q/die-rev-a/mt25q_qljs_u_256_aba_0.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py
 W-PDFN NoLead
@@ -72540,20 +70489,6 @@ WQFN NoLead
 0
 24
 15
-Package_DFN_QFN
-WQFN-16-1EP_3x3mm_P0.5mm_EP0.8x1.2mm
-WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tps43060.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
-WQFN NoLead
-0
-21
-17
-Package_DFN_QFN
-WQFN-16-1EP_3x3mm_P0.5mm_EP0.8x1.2mm_ThermalVias
-WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tps43060.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
-WQFN NoLead
-0
-23
-17
 Package_DFN_QFN
 WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm
 WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tpa6132a2.pdf#page=24), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -74760,20 +72695,6 @@ lga land grid array
 8
 8
 Package_LGA
-LGA-8_8x6.2mm_P1.27mm
-LGA, 8 Pin (https://datasheet.lcsc.com/lcsc/2303241700_Zetta-ZDSD64GLGEAG-R_C5277948.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
-LGA NoLead
-0
-8
-8
-Package_LGA
-LGA-8_8x6mm_P1.27mm
-LGA, 8 Pin (https://datasheet.lcsc.com/lcsc/2005251034_XTX-XTSD01GLGEAG_C558837.pdf#page=6), generated with kicad-footprint-generator ipc_noLead_generator.py
-LGA NoLead
-0
-8
-8
-Package_LGA
 LGA-12_2x2mm_P0.5mm
 LGA12
 lga land grid array
@@ -74864,13 +72785,6 @@ NXP LGA NoLead
 0
 8
 8
-Package_LGA
-Rohm_MLGA010V020A_LGA-10_2x2mm_P0.45mm_LayoutBorder_3x2y
-Rohm  LGA, 10 Pin (https://fscdn.rohm.com/en/techdata_basic/ic/package/Jisso_MLGA010V020A-1-2_Rev005s_E2(MSL3).pdf)
-Rohm LGA NoLead
-0
-10
-10
 Package_LGA
 ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
 ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps25hb.pdf#page=46), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -75488,20 +73402,6 @@ TQFP QFP
 176
 176
 Package_QFP
-Texas_PHP0048E_HTQFP-48-1EP_7x7mm_P0.5mm_EP6.5x6.5mm_Mask3.62x3.62mm
-Texas PHP0048E HTQFP, 48 Pin (https://www.ti.com/lit/ds/symlink/tusb4020bi.pdf#page=42), generated with kicad-footprint-generator ipc_gullwing_generator.py
-Texas HTQFP QFP
-0
-51
-49
-Package_QFP
-Texas_PHP0048E_HTQFP-48-1EP_7x7mm_P0.5mm_EP6.5x6.5mm_Mask3.62x3.62mm_ThermalVias
-Texas PHP0048E HTQFP, 48 Pin (https://www.ti.com/lit/ds/symlink/tusb4020bi.pdf#page=42), generated with kicad-footprint-generator ipc_gullwing_generator.py
-Texas HTQFP QFP
-0
-88
-49
-Package_QFP
 VQFP-80_14x14mm_P0.65mm
 VQFP, 80 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
 VQFP QFP
@@ -75915,20 +73815,6 @@ HTSSOP SO
 47
 25
 Package_SO
-HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm
-HTSSOP, 28 Pin (https://www.trinamic.com/fileadmin/assets/Support/AppNotes/AN005x-IC_Package_PCB_Footprint_Guidelines_HTSSOP28_rev1.00.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
-0
-30
-29
-Package_SO
-HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm_ThermalVias
-HTSSOP, 28 Pin (https://www.trinamic.com/fileadmin/assets/Support/AppNotes/AN005x-IC_Package_PCB_Footprint_Guidelines_HTSSOP28_rev1.00.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
-0
-41
-29
-Package_SO
 HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x5.4mm
 HTSSOP, 28 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
 HTSSOP SO
@@ -76166,20 +74052,6 @@ MFSOP 4 pin SMD
 0
 5
 5
-Package_SO
-MSOP-8-1EP_3x3mm_P0.65mm_EP1.5x1.8mm
-MSOP, 8 Pin (https://www.diodes.com/assets/Package-Files/MSOP-8EP.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-MSOP SO
-0
-13
-9
-Package_SO
-MSOP-8-1EP_3x3mm_P0.65mm_EP1.5x1.8mm_ThermalVias
-MSOP, 8 Pin (https://www.diodes.com/assets/Package-Files/MSOP-8EP.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-MSOP SO
-0
-18
-9
 Package_SO
 MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm
 MSOP, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf#page=13), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -76916,13 +74788,6 @@ SOP SO
 8
 8
 Package_SO
-SOP-8_6.605x9.655mm_P2.54mm
-SOP, 8 Pin (https://www.onsemi.com/pdf/datasheet/hcpl2631m-d.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOP SO
-0
-8
-8
-Package_SO
 SOP-16_3.9x9.9mm_P1.27mm
 SOP, 16 Pin (https://www.diodes.com/assets/Datasheets/PAM8403.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOP SO
@@ -76931,8 +74796,8 @@ SOP SO
 16
 Package_SO
 SOP-16_4.4x10.4mm_P1.27mm
-SOP, 16 Pin (https://www.vishay.com/docs/83513/tcmd1000.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOP SO
+16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
+SOP 1.27
 0
 16
 16
@@ -78043,13 +75908,6 @@ PowerDI 0.65
 13
 5
 Package_SON
-Diodes_PowerDI3333-8_UXC_3.3x3.3mm_P0.65mm
-Diodes Incorporated PowerDI3333-8 UXC, 3.05x3.05x0.8mm Body, https://www.diodes.com/assets/Package-Files/PowerDI3333-8%20(Type%20UXC).pdf
-PowerDI 0.65
-0
-6
-6
-Package_SON
 Fairchild_DualPower33-6_3x3mm
 Fairchild Power33 MOSFET package, 3x3mm (see https://www.fairchildsemi.com/datasheets/FD/FDMC8032L.pdf)
 mosfet
@@ -78322,27 +76180,6 @@ USON-20 2x4mm Pitch 0.4mm
 0
 20
 20
-Package_SON
-VSON-8-1EP_3x3mm_P0.65mm_EP1.65x2.4mm
-VSON, 8 Pin (https://www.ti.com/lit/pdf/qfnd619), generated with kicad-footprint-generator ipc_noLead_generator.py
-VSON NoLead
-0
-10
-9
-Package_SON
-VSON-8-1EP_3x3mm_P0.65mm_EP1.65x2.4mm_ThermalVias
-VSON, 8 Pin (https://www.ti.com/lit/pdf/qfnd619), generated with kicad-footprint-generator ipc_noLead_generator.py
-VSON NoLead
-0
-16
-9
-Package_SON
-VSON-8_1.5x2mm_P0.5mm
-VSON, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62840.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
-VSON NoLead
-0
-8
-8
 Package_SON
 VSON-8_3.3x3.3mm_P0.65mm_NexFET
 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf
@@ -81355,28 +79192,28 @@ Potentiometer horizontal Bourns 3269X
 3
 Potentiometer_SMD
 Potentiometer_Bourns_3314G_Vertical
-Potentiometer, vertical, top-adjust, Bourns 3314G, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer, vertical, Bourns 3314G, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
 Potentiometer vertical Bourns 3314G
 0
 3
 3
 Potentiometer_SMD
 Potentiometer_Bourns_3314J_Vertical
-Potentiometer, vertical, top-adjust, Bourns 3314J, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer, vertical, Bourns 3314J, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
 Potentiometer vertical Bourns 3314J
 0
 3
 3
 Potentiometer_SMD
 Potentiometer_Bourns_3314R-1_Vertical_Hole
-Potentiometer, vertical, bottom-adjust, single slot, Bourns 3314R-1, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer, vertical, shaft hole, Bourns 3314R-1, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
 Potentiometer vertical hole Bourns 3314R-1
 0
 3
 3
 Potentiometer_SMD
 Potentiometer_Bourns_3314R-GM5_Vertical
-Potentiometer, vertical, cross-slot, extended leadframe, Bourns 3314R-GM5, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer, vertical, Bourns 3314R-GM5, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
 Potentiometer vertical Bourns 3314R-GM5
 0
 3
@@ -82194,13 +80031,6 @@ Antenna ProAnt OnBoard 868Mhz 915Mhz 2400Mhz
 6
 6
 RF_Antenna
-Antenova_SR4G013_GPS
-GPS/GLONASS/Galileo/BeiDou antenna, 1559-1609Mhz, SMD, https://www.application-datasheet.com/pdf/antenova/sr4g013.pdf
-antenna GPS Antenova Beltii
-0
-5
-2
-RF_Antenna
 Astrocast_AST50127-00
 L-band patch antenna, https://docs.astrocast.com/dl/0534-DOC-M2M-ASTRO-Patch_Antenna-Datasheet.pdf
 L-band antenna astrocast Patch Antenna
@@ -82225,20 +80055,6 @@ RF_Antenna
 Johanson_2450AT43F0100
 Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, 1dBi, https://www.johansontechnology.com/datasheets/2450AT43F0100/2450AT43F0100.pdf
 antenna
-0
-2
-2
-RF_Antenna
-Molex_47948-0001_2.4Ghz
-SMD antenna 2400-2500Mhz, 3.7dBi, https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/productspecificationpdf/479/47948/PS-47948-001-001.pdf?inline
-rf antenna
-0
-4
-2
-RF_Antenna
-Pulse_W3000
-Pulse Electronics W3000 tri-band antenna for GPS (1.575Ghz), 868Mhz and 2.4Ghz ISM bands, https://productfinder.pulseeng.com/products/datasheets/W3000.pdf
-Antenna GPS 868Mhz ISM 1.575Ghz
 0
 2
 2
@@ -83426,20 +81242,6 @@ Panasonic Relay SPST
 4
 4
 Relay_THT
-Relay_3PST_COTO_3650
-Low thermal EMF 3PST-NO reed relay, 150V 0.25A, similar to 3660 but with independent shield, https://cotorelay.com/wp-content/uploads/2014/09/3600_series_reed_relay_datasheet.pdf
-reed relay low thermal emf
-0
-9
-9
-Relay_THT
-Relay_3PST_COTO_3660
-Low thermal EMF 3PST-NO reed relay, 150V 0.25A, similar to 3650 but with shared shield/contact, https://cotorelay.com/wp-content/uploads/2014/09/3600_series_reed_relay_datasheet.pdf
-reed relay low thermal emf
-0
-8
-8
-Relay_THT
 Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm
 AXICOM IM-Series Relays, DPDR, Pitch 3.2mm, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FV%7Fpdf%7FEnglish%7FENG_SS_108-98001_V_IM_0614_v1.pdf%7F4-1462039-1
 AXICOM IM-Series Relay DPDR Pitch 3.2mm
@@ -83496,8 +81298,8 @@ Kemet EC2 signal relay DPDT double dual coil latching through hole THT
 10
 10
 Relay_THT
-Relay_DPDT_Omron_G2RL-2
-Omron Relay, DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Relay_DPDT_Omron_G2RL
+Omron Relay DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
 Omron Relay DPDT
 0
 8
@@ -83566,23 +81368,9 @@ Relay DPDT Schrack-RT2 RM5mm 16A 250V AC Relay
 8
 8
 Relay_THT
-Relay_DPST_COTO_3602
-Low thermal EMF DPST-NO reed relay, 150V 0.25A, https://cotorelay.com/wp-content/uploads/2014/09/3600_series_reed_relay_datasheet.pdf
-reed relay low thermal emf
-0
-7
-7
-Relay_THT
 Relay_DPST_Fujitsu_FTR-F1A
 https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf
 relay dpst fujitsu tht
-0
-6
-6
-Relay_THT
-Relay_DPST_Omron_G2RL-2A
-Omron Relay, DPST, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
-Omron Relay DPST
 0
 6
 6
@@ -83650,13 +81438,6 @@ Relay DPDT Finder 40.51 Pitch 5mm
 5
 5
 Relay_THT
-Relay_SPDT_Fujitsu_FTR-LYCA005x_FormC_Vertical
-Relay, SPDT Form C, vertical mount, 6A, 5-60V, https://www.fujitsu.com/sg/imagesgig5/ftr-ly.pdf
-relay SPDT form c vertical
-0
-5
-5
-Relay_THT
 Relay_SPDT_HJR-4102
 IM Signal Relay SPDT HJR-4102
 Relay SPDT IM-relay HJR-4102
@@ -83683,20 +81464,6 @@ Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g
 Relay SPDT Omron Serie G5Q
 0
 5
-5
-Relay_THT
-Relay_SPDT_Omron_G2RL-1
-Omron Relay, SPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
-Omron Relay SPDT
-0
-5
-5
-Relay_THT
-Relay_SPDT_Omron_G2RL-1-E
-Omron Relay, SPDT, High Capacity, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
-Omron Relay SPDT High Capacity
-0
-8
 5
 Relay_THT
 Relay_SPDT_Omron_G5V-1
@@ -83804,13 +81571,6 @@ Standex Meder SIL reed relais
 5
 5
 Relay_THT
-Relay_SPST-NO_Fujitsu_FTR-LYAA005x_FormA_Vertical
-Relay, SPST-NO Form A, vertical mount, 6A, 5-60V, https://www.fujitsu.com/sg/imagesgig5/ftr-ly.pdf
-relay SPST-NO form A vertical
-0
-4
-4
-Relay_THT
 Relay_SPST_Finder_32.21-x300
 Finder 32.21-x300 Relay, SPST, https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
 Finder 32.21-x300 Relay SPST
@@ -83821,34 +81581,6 @@ Relay_THT
 Relay_SPST_Omron-G5Q-1A
 Relay SPST-NO Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf
 Relay SPST-NO Omron Serie G5Q
-0
-4
-4
-Relay_THT
-Relay_SPST_Omron_G2RL-1A
-Omron Relay, SPST, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
-Omron Relay SPST
-0
-4
-4
-Relay_THT
-Relay_SPST_Omron_G2RL-1A-E
-Omron Relay, SPST, High Capacity,  https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
-Omron Relay SPST High Capacity
-0
-6
-4
-Relay_THT
-Relay_SPST_Panasonic_ALFG_FormA
-Panasonic Relay SPST, https://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lfg.pdf
-Panasonic Relay SPST
-0
-4
-4
-Relay_THT
-Relay_SPST_Panasonic_ALFG_FormA_CircularHoles
-Panasonic Relay SPST, https://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lfg.pdf
-Panasonic Relay SPST
 0
 4
 4
@@ -85260,13 +82992,6 @@ rotary encoder
 5
 5
 Rotary_Encoder
-RotaryEncoder_Bourns_Horizontal_PEC12R-2x17F-Sxxxx
-Bourns rotary encoder, PEC12R, with switch, horizontal shaft, 17mm shaft length, https://www.bourns.com/docs/product-datasheets/pec12r.pdf
-rotary encoder
-0
-7
-6
-Rotary_Encoder
 RotaryEncoder_Bourns_Horizontal_PEC12R-2xxxF-Nxxxx
 Bourns rotary encoder, PEC12R, without switch, horizontal shaft, https://www.bourns.com/docs/product-datasheets/pec12r.pdf
 rotary encoder
@@ -85294,20 +83019,6 @@ rotary encoder
 0
 7
 6
-Sensor
-ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
-Temperature and humidity module, http://www.aosong.com/en/products-22.html
-Temperature and humidity module DHT22 AM2302
-0
-4
-4
-Sensor
-ASAIR_AM2302_P2.54mm_Vertical
-Temperature and humidity module, http://www.aosong.com/en/products-22.html
-Temperature and humidity module DHT22 AM2302
-0
-4
-4
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -85393,13 +83104,6 @@ infineon mems microphone
 15
 5
 Sensor_Audio
-Infineon_PG-LLGA-5-2
-Infineon, IP57, XENSIV, LGA-5, https://www.infineon.com/dgdl/Infineon-IM73A135-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c7f2a768a017fadec36b84500
-MEMS Microphone LGA Dust Water
-0
-5
-5
-Sensor_Audio
 InvenSense_ICS-43434-6_3.5x2.65mm
 TDK InvenSense MEMS I2S Microphone: https://invensense.tdk.com/products/ics-43434/
 microphone MEMS I2S ICS-43434 TDK InvenSense
@@ -85413,13 +83117,6 @@ MEMS Microphone LGA
 0
 5
 5
-Sensor_Audio
-Knowles_LGA-6_4.72x3.76mm
-Knowles MEMS Analog Microphone, Omnidirectional, SMD, Differential/Single-Ended Output, -40dB, Bottom Port, https://www.knowles.com/docs/default-source/default-document-library/spm0687lr5h-1_winfrey_datasheet.pdf
-SPM0687LR5H MEMS Microphone LGA
-0
-6
-6
 Sensor_Audio
 Knowles_SPH0645LM4H-6_3.5x2.65mm
 Knowles MEMS I2S Microphone: https://www.knowles.com/subdepartment/dpt-microphones/subdpt-sisonic-surface-mount-mems
@@ -85742,20 +83439,6 @@ QFN 0.5
 0
 25
 24
-Sensor_Pressure
-CFSensor_XGZP6897x
-Port External Dia 3.13mm, Port Internal Dia 0.9mm, 8 Pin (https://cfsensor.com/wp-content/uploads/2022/11/XGZP6897D-Pressure-Sensor-V2.7.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py, hand modified
-sop sensor
-0
-8
-8
-Sensor_Pressure
-CFSensor_XGZP6899D
-Port External Dia 3mm, Port Internal Dia 1mm, 8 Pin (https://cfsensor.com/wp-content/uploads/2022/11/XGZP6899D-Pressure-Sensor-V2.8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py, hand modified
-sop sensor
-0
-8
-8
 Sensor_Pressure
 Freescale_98ARH99066A
 https://www.nxp.com/docs/en/data-sheet/MPXH6250A.pdf
@@ -91168,13 +88851,6 @@ RF Transformer
 5
 5
 Transformer_SMD
-Transformer_MiniCircuits_AT224-1A
-SMD RF transformer, 50 ohm, 4.5 to 3000Mhz, https://www.minicircuits.com/pdfs/TC1-1-13M+.pdf
-RF Transformer
-0
-5
-5
-Transformer_SMD
 Transformer_Murata_78250JC
 Murata 78250JC https://www.murata-ps.com/datasheet?/data/magnetics/kmp_78250j.pdf
 Murata transformer
@@ -92546,10 +90222,10 @@ PinHeader_03x06
 0
 18
 18
-wp-mosfet
-PowerPAK SO-8
+cube-motherboard
+SMB_L4.4-W3.6-LS5.4-RD
 
 
 0
-10
-6
+2
+2
